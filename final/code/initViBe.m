@@ -1,0 +1,37 @@
+% copy Parameters as alias
+numberOfSamples         = param.numberOfSamples;
+matchingThreshold       = param.matchingThreshold;
+matchingNumber          = param.matchingNumber;
+updateFactor            = param.updateFactor;
+numberOfHistoryImages   = param.numberOfHistoryImages;
+
+% Initialize ViBe virables
+% history images are stored at 1 by 2(number of history images) cell
+historyImages = cell(1, numberOfHistoryImages);
+% initiate the first 2 images with current original images
+% or there must be some errors after
+for ii = 1:length(historyImages)
+    historyImages{ii} = vidFrame;
+end
+
+% history images are stored at 1 by 8(number of samples minus 
+% number of history images) cell
+historyBuffer = cell(1, numberOfSamples - numberOfHistoryImages);
+for ii = 1:length(historyBuffer)
+    % it's not exactly equal to current orignal frame
+    % it has a random bias
+    historyBuffer{ii} = vidFrame + double(floor(rand(height, width))*20 - 10);
+end
+
+%% Random Part
+size_ = 2*max(height, width) + 1;
+% jump[] from 1 to 2*updateFactor
+jump = floor(rand(1, size_)*2*updateFactor) + 1;
+% neighborX, Y represent the neighbor index
+neighborX = floor(rand(1, size_)*3) - 1;
+neighborY = floor(rand(1, size_)*3) - 1;
+% position[] from 1 to numberOfSamples
+position = floor(rand(1, size_)*numberOfSamples) + 1;
+
+% show initiation finished signal
+disp('Initialize ViBe')

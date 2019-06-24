@@ -1,0 +1,2457 @@
+From: 12345678@qq.com
+To: 12345678@qq.com
+Message-ID: <1703404993.19527.1555897586584.JavaMail.Administrator@iZ4ifdcqfyawa6Z>
+Subject: lwcc
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_19526_1695215833.1555897585603"
+X-Mailer: Code Manager .SWT
+
+------=_Part_19526_1695215833.1555897585603
+Content-Type: text/html;charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:/D:/Paper-T/Files/ReportGRB/20190422/296fab8064a011e9b27c534dcfae6498/qwby.xhtml
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+ <head>=20
+  <meta content=3D"IE=3D7.0000" http-equiv=3D"X-UA-Compatible" />=20
+  <meta content=3D"text/html ; charset=3Dutf-8" http-equiv=3D"Content-Type"=
+ />=20
+  <title>=E5=85=A8=E6=96=87=E6=A0=87=E6=98=8E=E5=BC=95=E6=96=87=E6=8A=A5=E5=
+=91=8A</title>=20
+  <style type=3D"text/css">
+        @page  {
+            size: a4;
+            margin: 1cm;
+        }
+        a {
+            COLOR: #2e2f2e
+        }
+
+        a:visited {
+            COLOR: #2e2f2e
+        }
+
+        a:hover {
+            COLOR: #800613
+        }
+
+        .n_main {
+            HEIGHT: auto !important;
+            WIDTH: 800px;
+            background-image: url(https://www.papercrazy.cn/img/papaercrazy=
+_bg_sy.gif);
+            BACKGROUND-REPEAT: repeat-y;
+            MIN-HEIGHT: 600px;
+            MARGIN: 0px auto;
+            BACKGROUND-COLOR: #fff
+        }
+
+        * {
+            TEXT-ALIGN: left
+        }
+
+        html {
+            margin: 0px;
+            FONT-SIZE: 14px;
+            FONT-FAMILY: =E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91;
+            BACKGROUND: #f4f9ef;
+            COLOR: #292929;
+            TEXT-ALIGN: left
+        }
+
+        body {
+            margin: 0px;
+            FONT-SIZE: 14px;
+            FONT-FAMILY: =E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91;
+            BACKGROUND: #f4f9ef;
+            COLOR: #292929;
+            TEXT-ALIGN: left
+        }
+
+        @media Print {
+            .n_print {
+                DISPLAY: none
+            }
+        }
+
+        .n_table_prints {
+            FONT-SIZE: 14px;
+            FONT-WEIGHT: bold;
+            COLOR: #2e2f2e
+        }
+
+        .n_table_prints:hover {
+            COLOR: #760605
+        }
+
+        .n_title {
+            WIDTH: 800px;
+            PADDING-TOP: 12px;
+            PADDING-LEFT: 0px;
+            MARGIN: 0px auto;
+            PADDING-RIGHT: 0px
+        }
+
+        .n_logo_left {
+            TEXT-ALIGN: left;
+            PADDING-LEFT: 20px
+        }
+
+        .n_logo_left IMG {
+            BORDER-TOP-STYLE: none;
+            BORDER-LEFT-STYLE: none;
+            BORDER-BOTTOM-STYLE: none;
+            BORDER-RIGHT-STYLE: none;
+
+
+        }
+
+        .n_logo_right IMG {
+            BORDER-TOP-STYLE: none;
+            BORDER-LEFT-STYLE: none;
+            BORDER-BOTTOM-STYLE: none;
+            BORDER-RIGHT-STYLE: none
+        }
+
+        .n_bfb {
+            FONT-WEIGHT: bold
+        }
+
+        .n_logo_right {
+            TEXT-ALIGN: right;
+            PADDING-RIGHT: 20px
+        }
+
+        .n_title_left {
+            HEIGHT: 46px;
+            WIDTH: 190px;
+            BACKGROUND: url(http://check.cnki.net/amlc2/images/jie_amlc.gif=
+) no-repeat;
+            FLOAT: left;
+            MARGIN-LEFT: 10px;
+            DISPLAY: inline
+        }
+
+        .n_title_right {
+            HEIGHT: 62px;
+            WIDTH: 185px;
+            BACKGROUND: url(http://check.cnki.net/amlc2/images/jie_zw.gif) =
+no-repeat;
+            FLOAT: right;
+            DISPLAY: inline;
+            MARGIN-RIGHT: 10px
+        }
+
+        .n_bodytop {
+            WIDTH: 800px;
+            MARGIN: 0px auto
+        }
+
+        .n_bt {
+            FONT-SIZE: 24px;
+            OVERFLOW: hidden;
+            MARGIN-BOTTOM: 1px;
+            HEIGHT: 32px;
+            FONT-WEIGHT: bold;
+            TEXT-ALIGN: center;
+            LINE-HEIGHT: 30px
+        }
+
+        .n_jie {
+            FONT-SIZE: 24px;
+            FONT-WEIGHT: normal
+        }
+
+        .n_no {
+            FONT-SIZE: 14px;
+            HEIGHT: 30px;
+            WIDTH: 800px;
+            BACKGROUND: #f4f9ef;
+            COLOR: #750606;
+            TEXT-ALIGN: left;
+            MARGIN: 0px auto;
+            LINE-HEIGHT: 30px
+        }
+
+        .n_bgd_k1 {
+            FONT-SIZE: 14px;
+            HEIGHT: auto;
+            WIDTH: 800px;
+            PADDING-TOP: 10px
+        }
+
+        .n_yes {
+            color: #009900;
+        }
+
+        .n_table_a {
+            BORDER-LEFT-WIDTH: 0px;
+            FONT-SIZE: 14px;
+            BORDER-RIGHT-WIDTH: 0px;
+            BORDER-BOTTOM-WIDTH: 0px;
+            COLOR: #000;
+            BORDER-TOP-WIDTH: 0px
+        }
+
+        .n_table_a_cos {
+            HEIGHT: 26px;
+            BACKGROUND-COLOR: #d7d7d7
+        }
+
+        .n_table_a_cosa {
+            HEIGHT: 20px;
+            BACKGROUND-COLOR: #f4f9ef
+        }
+
+        .n_text_green {
+            FONT-WEIGHT: bold;
+            COLOR: #000000;
+            TEXT-ALIGN: right;
+            LINE-HEIGHT: 28px
+        }
+
+        .n_text_block_b {
+            COLOR: #7a7a7a;
+            PADDING-LEFT: 8px;
+            LINE-HEIGHT: 25px
+        }
+
+        .n_text_block_bm {
+            FONT-SIZE: 14px;
+            TEXT-ALIGN: left;
+            LINE-HEIGHT: 20px
+        }
+
+        .n_text_block_a {
+            TEXT-ALIGN: left;
+            LINE-HEIGHT: 26px
+        }
+
+        .n_bgd_k2 {
+            FONT-SIZE: 14px
+        }
+
+        .n_table_b {
+            BORDER-TOP: #cccccc 2px solid;
+            WIDTH: 800px
+        }
+
+        .n_text_Gm {
+            COLOR: #000000;
+        }
+
+        .n_text_Gm A {
+            COLOR: #000000;
+        }
+
+        .n_text_Gm A:hover {
+            COLOR: #000000;
+        }
+
+        .s_new_hui {
+            COLOR: #666
+        }
+
+        .n_text_red_a {
+            FONT-SIZE: 14px;
+            FONT-WEIGHT: bold;
+            COLOR: #000000;
+            TEXT-ALIGN: left;
+            PADDING-LEFT: 10px;
+            LINE-HEIGHT: 26px
+        }
+
+        .n_text_red_a_zb {
+            FONT-SIZE: 14px;
+            FONT-WEIGHT: bold;
+            COLOR: #860505;
+            TEXT-ALIGN: right;
+            LINE-HEIGHT: 26px
+        }
+
+        .n_text_Gs {
+            BORDER-TOP: #035d03 1px dotted;
+            COLOR: #860505
+        }
+
+        .n_table_b_cos {
+            BACKGROUND: #d7d7d7;
+            font-size: 14px;
+        }
+
+        .n_red_bold {
+            FONT-WEIGHT: bold;
+            COLOR: #000
+        }
+
+        .n_text_block_b6 {
+            FONT-WEIGHT: bold;
+            COLOR: #7e7c7c;
+            TEXT-ALIGN: left
+        }
+
+        .n_table_b1 {
+            BACKGROUND: #f3f9ef
+        }
+
+        .n_table_a1 {
+            BACKGROUND: #d7d7d7;
+
+            LINE-HEIGHT: 20px;
+            font-size: 14px;
+
+        }
+
+        .n_table_a2 {
+            BACKGROUND: #f3f9ef;
+            LINE-HEIGHT: 20px;
+            font-size: 14px;
+        }
+
+        .n_table_a3 {
+            BORDER-TOP: #035d03 1px solid;
+            BACKGROUND: #f3f9ef;
+            BORDER-BOTTOM: #035d03 1px solid;
+            LINE-HEIGHT: 25px;
+            font-size: 14px;
+        }
+
+        .n_table_a3_l {
+            TEXT-ALIGN: right
+        }
+
+        .n_table_a3_r {
+            FONT-WEIGHT: bold;
+            TEXT-ALIGN: left
+        }
+
+        .n_table_a3_ra {
+            COLOR: #292929
+        }
+
+        .n_table_a3_ra:hover {
+            COLOR: #750606
+        }
+
+        .n_text_block_bs {
+            FONT-SIZE: 14px;
+            FONT-WEIGHT: bold;
+            TEXT-ALIGN: left
+        }
+
+        .n_text_block_bss {
+            COLOR: #666;
+            TEXT-ALIGN: left
+        }
+
+        .n_text_block_bsm {
+            FONT-WEIGHT: bold
+        }
+
+        .n_text_GT {
+            BORDER-BOTTOM: #035d03 1px dotted;
+            FONT-WEIGHT: bold;
+            COLOR: #860505;
+            PADDING-LEFT: 6px
+        }
+
+        .n_text_GTs {
+            FONT-WEIGHT: bold;
+            PADDING-LEFT: 10px
+        }
+
+        .n_qubr_fzb {
+            BORDER-BOTTOM: #000000 1px solid
+        }
+
+        .n_table_a_cosa {
+            BORDER-BOTTOM: #1a5f02 1px solid
+        }
+
+        .n_biao {
+            TEXT-ALIGN: right
+        }
+
+        .n_bgd_biao {
+            WIDTH: 800px
+        }
+
+        .n_text_block_a2 A {
+            COLOR: #292929
+        }
+
+        .n_text_block_a2 A:hover {
+            COLOR: #860505
+        }
+
+        .n_jcjg_a {
+            HEIGHT: 17px;
+            WIDTH: 48px;
+            BACKGROUND-IMAGE: url(http://check.cnki.net/amlc2/images/pmlc_i=
+con1.gif);
+            BACKGROUND-REPEAT: no-repeat;
+            COLOR: #333;
+            TEXT-ALIGN: left;
+            PADDING-LEFT: 10px;
+            LINE-HEIGHT: 17px
+        }
+
+        .n_jcjg_ap {
+            HEIGHT: 17px;
+            WIDTH: 48px;
+
+            BACKGROUND-REPEAT: no-repeat;
+            COLOR: #333;
+            TEXT-ALIGN: left;
+            PADDING-LEFT: 10px;
+            LINE-HEIGHT: 17px
+        }
+
+        .n_jcjg_am {
+            HEIGHT: 17px;
+
+            BACKGROUND-REPEAT: no-repeat;
+            COLOR: #d90808;
+            TEXT-ALIGN: left;
+            LINE-HEIGHT: 17px;
+            WIDTHx: 48px
+        }
+
+        .n_jcjg_al {
+            HEIGHT: 17px;
+            WIDTH: 48px;
+
+            BACKGROUND-REPEAT: no-repeat;
+            COLOR: #333;
+            TEXT-ALIGN: left;
+            PADDING-LEFT: 10px;
+            LINE-HEIGHT: 17px
+        }
+
+        .n_k3 {
+            OVERFLOW: hidden;
+            BACKGROUND: #f7f7f7
+        }
+
+        .n_pic {
+            HEIGHT: 15px;
+            WIDTH: 602px;
+            MARGIN: 5px auto 10px
+        }
+
+        .n_table_zs {
+            MARGIN: 0px auto;
+            font-size: 14px;
+        }
+
+        .n_bodymid {
+            FONT-SIZE: 14px;
+            OVERFLOW: hidden;
+            WIDTH: 800px;
+            MARGIN: 0px auto
+        }
+
+        .n_bodymid_bf {
+            MARGIN-TOP: 5px
+        }
+
+        .n_table_jiebf {
+            BORDER-TOP: #cccccc 2px solid;
+            BACKGROUND: #d7d7d7
+        }
+
+        .n_table_jiebfs {
+            BORDER-TOP: #cccccc 1px solid;
+            BACKGROUND: #d7d7d7;
+            BORDER-BOTTOM: #cccccc 1px solid;
+            font-size: 14px;
+        }
+
+        .n_table_jiebf_zzs {
+            PADDING-LEFT: 40px
+        }
+
+        .n_table_jiebf_fzb {
+            HEIGHT: 25px;
+            FONT-WEIGHT: bold;
+            COLOR: #000000;
+            TEXT-ALIGN: right;
+            LINE-HEIGHT: 25px
+        }
+
+        .n_jcjg_as {
+            HEIGHT: 17px;
+            WIDTH: 48px;
+            BACKGROUND-IMAGE: url(http://check.cnki.net/amlc2/images/pmlc_i=
+con1.gif);
+            BACKGROUND-REPEAT: no-repeat;
+            FLOAT: left;
+            COLOR: #333;
+            TEXT-ALIGN: center;
+            LINE-HEIGHT: 17px
+        }
+
+        .n_xu {
+            WIDTH: 800px;
+            BORDER-BOTTOM: #cccccc 1px solid
+        }
+
+        .n_xu_a {
+            HEIGHT: 20px;
+            BORDER-RIGHT: #ccc 1px solid;
+            WIDTH: 20px;
+            BORDER-BOTTOM: #ccc 1px solid;
+            TEXT-ALIGN: center;
+            BACKGROUND-COLOR: #d7d7d7
+        }
+
+        .n_text_back_a {
+            FONT-SIZE: 14px;
+            COLOR: #333;
+            TEXT-ALIGN: center;
+            PADDING-LEFT: 2px;
+            LINE-HEIGHT: 20px
+        }
+
+        .n_text_G2 {
+            FONT-SIZE: 14px;
+            COLOR: #333;
+            TEXT-ALIGN: left;
+            PADDING-LEFT: 8px;
+            LINE-HEIGHT: 20px
+        }
+
+        .n_text_G2 A {
+            COLOR: #2e2f2e
+        }
+
+        .n_text_G2 a:hover {
+            COLOR: #800613
+        }
+
+        .n_xu_a {
+            HEIGHT: 25px;
+            BORDER-RIGHT: #cccccc 1px solid;
+            WIDTH: 30px;
+            BORDER-BOTTOM: #cccccc 1px solid;
+            TEXT-ALIGN: center;
+            BACKGROUND-COLOR: #fcfaf1
+        }
+
+        .n_text_red_d {
+            FONT-SIZE: 14px;
+            COLOR: #8b0411;
+            TEXT-ALIGN: center
+        }
+
+        .n_xu_d {
+            HEIGHT: 30px;
+            WIDTH: 130px;
+            BORDER-BOTTOM: #ccc 1px dotted;
+            TEXT-ALIGN: center;
+            BORDER-LEFT: #cccccc 1px solid
+        }
+
+        .n_xu_da {
+            HEIGHT: 20px;
+            WIDTH: 100px;
+            COLOR: #7a7a7a;
+            TEXT-ALIGN: center;
+            BORDER-LEFT: #cccccc 1px solid
+        }
+
+        .n_bodylast {
+            HEIGHT: 30px;
+            WIDTH: 8000px;
+            MARGIN: 5px auto;
+            BACKGROUND-COLOR: #f3f9ef
+        }
+
+        .n_bodyfooter {
+            FONT-SIZE: 14px;
+            BORDER-TOP: #cccccc 2px solid;
+            HEIGHT: auto;
+            WIDTH: 800px;
+            COLOR: #666;
+            MARGIN: 5px auto;
+            LINE-HEIGHT: 20px
+        }
+
+        .n_footer_sm {
+            FLOAT: left;
+            FONT-WEIGHT: bold
+        }
+
+        .n_footer_sms {
+            FLOAT: left
+        }
+
+        .n_footer_smr {
+            FLOAT: right
+        }
+
+        .n_footer_smr:hover {
+            COLOR: #800811
+        }
+
+        .n_bodymid_ywnr {
+            BORDER-TOP: #cccccc 1px solid;
+            HEIGHT: auto;
+            MARGIN-TOP: 5px
+        }
+
+        .n_table_ywtop {
+            BACKGROUND: #d7d7d7
+        }
+
+        .n_ywnr {
+            HEIGHT: 30px;
+            FONT-WEIGHT: bold;
+            PADDING-LEFT: 22px;
+            LINE-HEIGHT: 30px
+        }
+
+        .n_ywnr_content {
+            HEIGHT: auto;
+            MARGIN-TOP: 5px;
+            PADDING-LEFT: 20px;
+            LINE-HEIGHT: 180%;
+            PADDING-RIGHT: 20px
+        }
+
+        .n_ywnr_content p {
+            MARGIN: 0px auto;
+            TEXT-INDENT: 2em
+        }
+
+        .n_ywnr_content p.n_new_hui {
+            COLOR: #666
+        }
+
+        .n_ywnr_content p img {
+            HEIGHT: 250px;
+            WIDTH: 550px
+        }
+
+        .n_new_red {
+            COLOR: red
+        }
+
+        .n_new_ye {
+            COLOR: #e28a05
+        }
+
+        .n_red {
+            COLOR: #d90808
+        }
+
+        .n_red2 {
+            color: Red;
+        }
+
+        .n_ymnr_bz {
+            BORDER-TOP: #cccccc 1px solid;
+            HEIGHT: auto
+        }
+
+        .n_ymnr_top {
+            HEIGHT: 30px;
+            BACKGROUND: #d7d7d7;
+            FONT-WEIGHT: bold;
+            LINE-HEIGHT: 30px;
+            TEXT-INDENT: 15px
+        }
+
+        .n_ymnr_top_s {
+            WIDTH: 780px;
+            BACKGROUND: #f7f7f7;
+            MARGIN: 5px auto
+        }
+
+        .n_table_bz_gd {
+            BACKGROUND: #f7f7f7;
+            COLOR: #d90808;
+            PADDING-BOTTOM: 5px;
+            PADDING-TOP: 5px;
+            PADDING-LEFT: 5px;
+            LINE-HEIGHT: 150%;
+            PADDING-RIGHT: 5px
+        }
+
+        .n_table_bz_mark {
+            BACKGROUND: #f7f7f7;
+            FONT-WEIGHT: bold;
+            LINE-HEIGHT: 25px;
+            TEXT-INDENT: 18px
+        }
+
+        .n_jz {
+            BORDER-TOP: #1b5e01 1px solid;
+            HEIGHT: auto
+        }
+
+        .n_jz_nr {
+            BACKGROUND: #ddf0ce;
+            FONT-WEIGHT: bold;
+            PADDING-LEFT: 10px
+        }
+
+        .n_jz_nrs {
+            PADDING-LEFT: 10px;
+            LINE-HEIGHT: 180%
+        }
+
+        .n_xzgf_bg {
+            MARGIN: 5px auto 5px 0px
+        }
+
+        .n_xzgf_bgs {
+            MARGIN: 5px auto
+        }
+
+        .content01 {
+            BACKGROUND: #ffffff;
+            FONT-WEIGHT: bold;
+            LINE-HEIGHT: 20px
+        }
+
+        .content02 {
+            BACKGROUND: #ffffff;
+            TEXT-ALIGN: center;
+            LINE-HEIGHT: 20px
+        }
+
+        .content05 {
+            BACKGROUND: #ffffff;
+            TEXT-ALIGN: left;
+            LINE-HEIGHT: 20px
+        }
+
+        .content03 {
+            BACKGROUND: #ffffff;
+            LINE-HEIGHT: 20px
+        }
+
+        .n_ywnr_pic {
+            WIDTH: 482px;
+            MARGIN: auto
+        }
+
+        .n_table_bz_gds {
+            PADDING-BOTTOM: 5px;
+            PADDING-TOP: 5px;
+            PADDING-LEFT: 10px
+        }
+
+        .n_ye {
+            COLOR: #aeb81b
+        }
+
+        .n_sm {
+            FONT-WEIGHT: bold;
+            COLOR: #000
+        }
+
+        .n_sm_tables {
+            BACKGROUND: #f7f7f7;
+            LINE-HEIGHT: 20.8px;
+
+        }
+
+        .n_sm_table {
+            BACKGROUND: #f7f7f7;
+            LINE-HEIGHT: 20.8px;
+            font-size: 14px;
+
+        }
+
+        .n_dz {
+            COLOR: #2e2f2e
+        }
+
+        .n_dz:hover {
+            FONT-SIZE: 14px;
+            COLOR: #79100d
+        }
+
+        .n_bgd_biao_b {
+            OVERFLOW: hidden;
+            BACKGROUND: #d7d7d7;
+            BORDER-BOTTOM: #999 1px solid;
+            FONT-WEIGHT: bold;
+            TEXT-ALIGN: center;
+            LINE-HEIGHT: 30px
+        }
+
+        .n_bgd_biao_bs {
+            OVERFLOW: hidden;
+            BACKGROUND: #d7d7d7;
+            BORDER-BOTTOM: #999 1px solid;
+            FONT-WEIGHT: bold;
+            TEXT-ALIGN: center;
+            LINE-HEIGHT: 30px
+        }
+
+        .n_bgd_biao_bs {
+            BORDER-LEFT: #999 1px solid
+        }
+
+        .n_qwdz_ywnr {
+            BORDER-TOP: #999 1px solid;
+            MARGIN-TOP: 5px
+        }
+
+        .n_text_red_ax {
+            FONT-SIZE: 14px;
+            FONT-WEIGHT: bold;
+            COLOR: #d90808;
+            TEXT-ALIGN: center;
+            LINE-HEIGHT: 26px
+        }
+
+        .n_table_xu_a {
+            WIDTH: 20px;
+            BACKGROUND: #d7d7d7;
+            BORDER-BOTTOM: #999 1px solid;
+            FONT-WEIGHT: bold;
+            TEXT-ALIGN: center
+        }
+
+        .n_qwdz_k {
+            BACKGROUND: #f3f9ef;
+            BORDER-BOTTOM: #999 1px solid
+        }
+
+        .n_bgd_biao_KU {
+            OVERFLOW: hidden;
+            BORDER-BOTTOM: #999 1px solid;
+            BORDER-LEFT: #999 1px solid
+        }
+
+        .n_bgd_biao_c {
+            BACKGROUND: #d7d7d7;
+            PADDING-BOTTOM: 5px;
+            PADDING-TOP: 5px;
+            PADDING-LEFT: 5px;
+            MARGIN: 5px;
+            LINE-HEIGHT: 150%;
+            PADDING-RIGHT: 5px
+        }
+
+        .n_text_Gr {
+            BORDER-BOTTOM: #1d5e02 1px dotted
+        }
+
+        .n_bgd_biao_KUa {
+            MARGIN: 6px;
+            LINE-HEIGHT: 18px
+        }
+
+        .n_bgd_biao_KUas {
+            TEXT-ALIGN: center;
+            LINE-HEIGHT: 180%
+        }
+
+        .n_bgd_biao_KUas a{
+            COLOR: #2e2f2e
+        }
+
+        .n_bgd_biao_KUas a:hover {
+            COLOR: #7b100a
+        }
+
+        .n_bgd_biao_KUm {
+            BACKGROUND: #ddf0ce;
+            FONT-WEIGHT: bold;
+            TEXT-ALIGN: center;
+            LINE-HEIGHT: 26px
+        }
+
+        .n_bgd_biao_KUr {
+            HEIGHT: auto;
+            BORDER-BOTTOM: #999 1px solid;
+            MIN-HEIGHT: 30px;
+            BORDER-LEFT: #999 1px solid
+        }
+
+        .n_bgd_biao_KUu {
+            BORDER-BOTTOM: #999 1px solid
+        }
+
+        .n_qwdz_bz {
+            COLOR: #d90808;
+            LINE-HEIGHT: 180%
+        }
+
+        .n_qwdz_bz a {
+            COLOR: #2e2f2e
+        }
+
+        .n_qwdz_bz a:hover {
+            COLOR: #7b100a
+        }
+
+        .n_qwdz_xxdz {
+            FONT-SIZE: 14px
+        }
+
+        .n_jcxxjg {
+            FONT-WEIGHT: bold;
+            LINE-HEIGHT: 25px
+        }
+
+        .n_bgxxjc {
+            BORDER-TOP: #1d5e02 2px solid;
+            BACKGROUND: #f3f9ef;
+            LINE-HEIGHT: 30px
+        }
+
+        .n_bz {
+            FONT-WEIGHT: bold
+        }
+
+        .n_bgxxjcs {
+            PADDING-BOTTOM: 5px;
+            TEXT-ALIGN: center;
+            PADDING-TOP: 5px;
+            PADDING-LEFT: 5px;
+            PADDING-RIGHT: 5px
+        }
+
+        .n_bgxxjcm {
+            BACKGROUND: #fef4f5;
+            LINE-HEIGHT: 18px
+        }
+
+        .n_pic_dz {
+            TEXT-ALIGN: right
+        }
+
+        .n_bf_bt {
+            FONT-WEIGHT: bold;
+            TEXT-ALIGN: center
+        }
+
+        .n_table_bz_gdh {
+            HEIGHT: 25px;
+            BORDER-BOTTOM: #d7d7d7 1px dotted;
+            FONT-WEIGHT: bold;
+            COLOR: #2d2d2c;
+            LINE-HEIGHT: 20px;
+            TEXT-INDENT: 18px
+        }
+
+        .n_table_pqbt {
+            FONT-WEIGHT: bold;
+            TEXT-ALIGN: center
+        }
+
+        .n_new_czb {
+            TEXT-ALIGN: center
+        }
+
+        .n_new_czb_red {
+            COLOR: #ff0000;
+            TEXT-ALIGN: center
+        }
+
+        .n_new_bgl {
+            FONT-WEIGHT: bold;
+            TEXT-ALIGN: right;
+            LINE-HEIGHT: 22px
+        }
+
+        .n_text_block_b6 a {
+            COLOR: #666
+        }
+
+        .n_text_block_b6 a:hover {
+            COLOR: #860505
+        }
+
+        .n_new_pqgdims {
+            BORDER-TOP: #1a5f02 2px solid;
+            BACKGROUND: #f3f9ef;
+            FONT-WEIGHT: bold;
+            PADDING-LEFT: 10px;
+            LINE-HEIGHT: 25px
+        }
+
+        .n_new_pqgdimx {
+            WIDTH: 620px;
+            BACKGROUND: #f7f7f7;
+            MARGIN: 5px auto
+        }
+
+        .n_new_bg_lb table {
+            TEXT-ALIGN: left
+        }
+
+        .n_new_bgx {
+            BORDER-BOTTOM: #1d5e02 1px dotted
+        }
+
+        .n_new_bgx img {
+            FLOAT: left
+        }
+
+        .n_new_pqgd_lie {
+            TEXT-ALIGN: right
+        }
+
+        .n_sms A {
+            COLOR: #666
+        }
+
+        .n_sms A:hover {
+            COLOR: #90050b
+        }
+
+        .n_qwdz_ywnr {
+            BORDER-TOP: #999 1px solid;
+            MARGIN-TOP: 5px
+        }
+
+        .qw_bgd_biao {
+            WIDTH: 800px;
+            BORDER-COLLAPSE: collapse;
+            TABLE-LAYOUT: fixed
+        }
+
+        .qw_bgd_biao_b {
+            BORDER-TOP: #999 1px solid;
+            HEIGHT: 25px;
+            BORDER-RIGHT: #999 1px solid;
+            BORDER-BOTTOM: #999 1px solid;
+            COLOR: #000;
+            TEXT-ALIGN: center;
+            LINE-HEIGHT: 25px;
+            BACKGROUND-COLOR: #ddf0ce
+        }
+
+        .qw_bgd_biao_bs {
+            BORDER-TOP: #999 1px solid;
+            HEIGHT: 25px;
+            BORDER-BOTTOM: #999 1px solid;
+            COLOR: #000;
+            TEXT-ALIGN: center;
+            BORDER-LEFT: #999 1px solid;
+            LINE-HEIGHT: 25px;
+            BACKGROUND-COLOR: #ddf0ce
+        }
+
+        .qw_bgd_biao_KU {
+            BORDER-RIGHT: #999 1px solid;
+            VERTICAL-ALIGN: top;
+            BORDER-BOTTOM: #999 1px solid;
+            TEXT-ALIGN: left;
+            PADDING-LEFT: 5px;
+            PADDING-RIGHT: 5px
+        }
+
+        .qw_bgd_biao_KUa {
+            WIDTH: 280px;
+            VERTICAL-ALIGN: top;
+            PADDING-BOTTOM: 5px;
+            TEXT-ALIGN: left;
+            PADDING-TOP: 5px;
+            PADDING-LEFT: 5px;
+            PADDING-RIGHT: 5px
+        }
+
+        .qw_text_red_b {
+            FONT-SIZE: 14px;
+            COLOR: #d90808;
+            TEXT-ALIGN: left;
+            LINE-HEIGHT: 20px
+        }
+
+        .qw_bgd_biao_c {
+            MARGIN-TOP: 5px;
+            COLOR: #000;
+            TEXT-ALIGN: left;
+            LINE-HEIGHT: 18px;
+            BACKGROUND-COLOR: #fdf4f2
+        }
+
+        .qw_table_xu_a {
+            BORDER-TOP: #999 1px solid;
+            BORDER-RIGHT: #999 1px dashed;
+            BORDER-BOTTOM: #999 1px solid;
+            TEXT-ALIGN: center;
+            BORDER-LEFT: #999 1px solid;
+            BACKGROUND-COLOR: #fcfaf1
+        }
+
+        .qw_table_xu_b {
+            BORDER-TOP: #999 1px solid;
+            WIDTH: 18px;
+            BORDER-BOTTOM: #999 1px solid;
+            TEXT-ALIGN: center;
+            BORDER-LEFT: #999 1px solid;
+            BACKGROUND-COLOR: #ddf0ce
+        }
+
+        .qw_text_red_ax {
+            FONT-SIZE: 14px;
+            FONT-WEIGHT: bold;
+            COLOR: #860505;
+            TEXT-ALIGN: center;
+            PADDING-LEFT: 10px;
+            LINE-HEIGHT: 26px
+        }
+
+        .table_check_rsR table {
+            WORD-WRAP: break-word;
+            BORDER-TOP: #cccccc 1px solid;
+            BORDER-RIGHT: #cccccc 1px solid;
+            BORDER-COLLAPSE: collapse;
+            BORDER-BOTTOM: #cccccc 1px solid;
+            WORD-BREAK: break-all;
+            BORDER-LEFT: #cccccc 1px solid
+        }
+
+        .table_check_rsR table td {
+            BORDER-TOP: #cccccc 1px solid;
+            BORDER-RIGHT: #cccccc 1px solid;
+            BORDER-BOTTOM: #cccccc 1px solid;
+            PADDING-BOTTOM: 0px;
+            PADDING-TOP: 0px;
+            PADDING-LEFT: 5px;
+            BORDER-LEFT: #cccccc 1px solid;
+            PADDING-RIGHT: 5px
+        }
+
+        th {
+            BORDER-TOP: #cccccc 1px solid;
+            BORDER-RIGHT: #cccccc 1px solid;
+            BORDER-BOTTOM: #cccccc 1px solid;
+            PADDING-BOTTOM: 0px;
+            PADDING-TOP: 0px;
+            PADDING-LEFT: 5px;
+            BORDER-LEFT: #cccccc 1px solid;
+            PADDING-RIGHT: 5px
+        }
+
+        .t_text_red_a {
+            FONT-SIZE: 14px;
+            COLOR: #000000;
+        }
+
+        .Font_Color_Red {
+            TEXT-DECORATION: underline;
+            color:red;
+
+        }
+
+        .Font_Color_Yellow {
+            TEXT-DECORATION: underline;
+            color:orange;
+
+        }
+
+        .Font_Color_Green {
+            TEXT-DECORATION: underline;
+            FONT-STYLE: oblique
+        }
+
+        td.n_bgd_biao_c a {
+            WHITE-SPACE: normal
+        }
+
+        .item_title {
+            FONT-SIZE: 14px;
+            BORDER-TOP: #d7d7d7 2px solid;
+            FONT-WEIGHT: bold;
+            PADDING-LEFT: 10px;
+            LINE-HEIGHT: 24px;
+            BACKGROUND-COLOR: #d7d7d7
+        }
+
+        .per_g {
+            HEIGHT: 17px;
+            WIDTH: 45px;
+            BACKGROUND-IMAGE: url(http://check.cnki.net/amlc2/images/pmlc_i=
+con1.gif);
+            BACKGROUND-REPEAT: no-repeat;
+            BACKGROUND-POSITION: left center;
+            FLOAT: left;
+            TEXT-ALIGN: left;
+            PADDING-LEFT: 10px;
+            DISPLAY: block;
+            LINE-HEIGHT: 17px
+        }
+
+        .per_y {
+            HEIGHT: 17px;
+            WIDTH: 45px;
+            BACKGROUND-IMAGE: url(http://check.cnki.net/amlc2/images/pmlc_i=
+con2.gif);
+            BACKGROUND-REPEAT: no-repeat;
+            BACKGROUND-POSITION: left center;
+            FLOAT: left;
+            TEXT-ALIGN: left;
+            PADDING-LEFT: 10px;
+            DISPLAY: block;
+            LINE-HEIGHT: 17px
+        }
+
+        .per_o {
+            HEIGHT: 17px;
+            WIDTH: 45px;
+            BACKGROUND-IMAGE: url(http://check.cnki.net/amlc2/images/pmlc_i=
+con3.gif);
+            BACKGROUND-REPEAT: no-repeat;
+            BACKGROUND-POSITION: left center;
+            FLOAT: left;
+            TEXT-ALIGN: left;
+            PADDING-LEFT: 10px;
+            DISPLAY: block;
+            LINE-HEIGHT: 17px
+        }
+
+        .per_r {
+            HEIGHT: 17px;
+            WIDTH: 45px;
+            BACKGROUND-IMAGE: url(http://check.cnki.net/amlc2/images/pmlc_i=
+con4.gif);
+            BACKGROUND-REPEAT: no-repeat;
+            BACKGROUND-POSITION: left center;
+            FLOAT: left;
+            TEXT-ALIGN: left;
+            PADDING-LEFT: 10px;
+            DISPLAY: block;
+            LINE-HEIGHT: 17px
+        }
+
+
+
+
+    </style>=20
+ </head>=20
+ <body>
+  <b>=20
+   <form id=3D"form1" method=3D"post" name=3D"form1" action=3D"Report.aspx?=
+LeftFile=3D60092668&amp;t=3Dp">=20
+    <div id=3D"report_all_bak" class=3D"n_main">=20
+     <div class=3D"n_title">=20
+      <div class=3D"n_print">=20
+       <table cellspacing=3D"0" cellpadding=3D"0" width=3D"800" border=3D"0=
+">=20
+        <tbody>=20
+         <tr>=20
+          <td width=3D"700"></td>=20
+          <td width=3D"25"> <img alt=3D"" src=3D"http://check.cnki.net/amlc=
+/images/n_btn_print.gif" /> </td>=20
+          <td width=3D"60"><a class=3D"n_table_prints" href=3D"javascript:p=
+rint();">=E6=89=93=E5=8D=B0</a></td>=20
+          <td width=3D"25"> <img alt=3D"" src=3D"http://check.cnki.net/amlc=
+/images/n_btn_save.gif" /></td>=20
+          <td width=3D"60"> <object id=3D"wb" style=3D"DISPLAY: none" name=
+=3D"wb" classid=3D"CLSID:8856F961-340A-11D0-A96B-00C04FD705A2" width=3D"0" =
+height=3D"0"></object> <script type=3D"text/javascript">
+                                function s() {
+                                    var obj =3D document.getElementById('wb=
+');
+
+                                    try {
+                                        if (obj !=3D null) {
+                                            obj.ExecWB(4, 1);
+                                        }
+                                    }
+                                    catch (add) {
+
+                                    }
+                                }
+                            </script> <a class=3D"n_table_prints" href=3D"j=
+avascript:s();">=E4=BF=9D=E5=AD=98</a> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+      </div>=20
+      <table cellspacing=3D"0" cellpadding=3D"0" width=3D"800" border=3D"0"=
+>=20
+       <tbody>=20
+        <tr>=20
+         <!--=E4=BF=AE=E6=94=B9=E5=9B=BE=E6=A0=87=E9=93=BE=E6=8E=A5  src-->=
+=20
+         <td class=3D"n_logo_left" style=3D"padding-left: 0px;"><a href=3D"=
+https://www.papercrazy.cn" target=3D"_blank"><img alt=3D"" src=3D"https://w=
+ww.papercrazy.cn/img/logo.png" style=3D"width: 180px;" /></a></td>=20
+         <td class=3D"n_logo_right"><a href=3D"https://www.papercrazy.cn" t=
+arget=3D"_blank"><img alt=3D"" src=3D"" /></a> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+     </div>=20
+     <div class=3D"n_bodytop">=20
+      <div class=3D"n_bt">
+       PaperCrazy
+       <span class=3D"n_jie">(<span id=3D"Label_Report_Type_Name">=E5=85=A8=
+=E6=96=87=E6=A0=87=E6=98=8E=E5=BC=95=E6=96=87</span>)</span>
+      </div>=20
+      <table class=3D"n_table_a" style=3D"BORDER-TOP: #cccccc 2px solid" ce=
+llspacing=3D"0" cellpadding=3D"0" width=3D"100%" border=3D"0">=20
+       <tbody>=20
+        <tr class=3D"n_table_a_cos">=20
+         <td colspan=3D"2">=20
+          <table cellspacing=3D"0" cellpadding=3D"0" width=3D"800" border=
+=3D"0">=20
+           <tbody>=20
+            <tr>=20
+             <td class=3D"n_text_red_a" width=3D"400">=E6=8A=A5=E5=91=8A=E7=
+=BC=96=E5=8F=B7:<span id=3D"Label_ReportID">296fab8064a011e9b27c534dcfae649=
+8</span></td>=20
+             <td class=3D"t_text_red_a" width=3D"80">=E6=A3=80=E6=B5=8B=E6=
+=97=B6=E9=97=B4=EF=BC=9A</td>=20
+             <td style=3D"FONT-SIZE: 14px;"><span id=3D"Label_Apply_Time">2=
+019-04-22 09:44:41</span> </td>=20
+            </tr>=20
+           </tbody>=20
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td class=3D"n_text_green" style=3D"WIDTH: 100px">=E8=AE=BA=E6=96=
+=87=E9=A2=98=E7=9B=AE=EF=BC=9A</td>=20
+         <td class=3D"n_text_block_a" style=3D"WORD-WRAP: break-word; WIDTH=
+: 539px; WHITE-SPACE: normal; WORD-BREAK: break-all"><span id=3D"Label_Titl=
+e">=E5=9F=BA=E4=BA=8E=E9=82=BB=E5=9F=9F=E7=9B=B4=E6=96=B9=E5=9B=BE=E5=88=86=
+=E5=B8=83=E7=9A=84Vibe=E7=AE=97=E6=B3=95.docx</span></td>=20
+        </tr>=20
+        <tr>=20
+         <td class=3D"n_text_green" style=3D"WIDTH: 100px">=E8=AE=BA=E6=96=
+=87=E4=BD=9C=E8=80=85=EF=BC=9A</td>=20
+         <td class=3D"n_text_block_a"><span id=3D"Label_Author">papercrazy<=
+/span></td>=20
+        </tr>=20
+        <tr>=20
+         <td class=3D"n_text_green" style=3D"WIDTH: 100px; VERTICAL-ALIGN: =
+top">=E6=A3=80=E6=B5=8B=E8=8C=83=E5=9B=B4=EF=BC=9A</td>=20
+         <td class=3D"n_text_block_bm"><span id=3D"Label_Check_Range">=E5=
+=AD=A6=E6=9C=AF=E6=9C=9F=E5=88=8A=EF=BC=881900-2019=EF=BC=89<br />=E5=AD=A6=
+=E4=BD=8D=E8=AE=BA=E6=96=87=EF=BC=88=E7=A1=95=E5=8D=9A=E5=BA=931990-2019=EF=
+=BC=89<br />=E4=BC=9A=E8=AE=AE=E8=AE=BA=E6=96=87=EF=BC=881990-2019=EF=BC=89=
+<br /> =E4=B9=A6=E7=B1=8D=E6=95=B0=E6=8D=AE=EF=BC=881990-2019=EF=BC=89<br /=
+>=E4=BA=92=E8=81=94=E7=BD=91=E8=B5=84=E6=BA=90</span> </td>=20
+        </tr>=20
+       </tbody>=20
+      </table>=20
+      <div class=3D"item_title">
+       =E6=A3=80=E6=B5=8B=E7=BB=93=E6=9E=9C
+      </div>=20
+      <div class=3D"n_bgd_k2">=20
+       <table id=3D"p1" class=3D"n_table_b" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"800" border=3D"0">=20
+        <tbody>=20
+         <tr class=3D"n_table_b_cos">=20
+          <td class=3D"n_text_red_a" width=3D"95">=E6=80=BB=E4=BD=93=E7=9B=
+=B8=E4=BC=BC=E5=BA=A6=EF=BC=9A</td>=20
+          <td style=3D"TEXT-ALIGN: left"> <span id=3D"Label_AllCopy">=20
+            <div title=3D"=E6=80=BB=E4=BD=93=E7=9B=B8=E4=BC=BC=E5=BA=A6" st=
+yle=3D"font-size: 12px" class=3D"per_y">
+             0.4%
+            </div> </span> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table class=3D"n_table_a1" cellspacing=3D"0" cellpadding=3D"0" widt=
+h=3D"800" border=3D"0">=20
+        <tbody>=20
+         <tr class=3D"n_qubr_fzb">=20
+          <td class=3D"n_text_Gm" height=3D"25" width=3D"52">&#xa0; </td>=
+=20
+          <td class=3D"n_text_Gm" width=3D"158">=E9=87=8D=E5=A4=8D=E5=AD=97=
+=E6=95=B0=EF=BC=9A<span class=3D"n_text_block_bss">&#xa0;[&#xa0;<span id=3D=
+"Label_All_CopyWords">17</span> &#xa0;]</span></td>=20
+          <td class=3D"n_text_Gm" width=3D"176">=E6=80=BB=E5=AD=97=E6=95=B0=
+=EF=BC=9A<span class=3D"n_text_block_bss">&#xa0;&#xa0;&#xa0;[&#xa0;<span id=
+=3D"Label_All_Words">4426</span>&#xa0;]</span></td>=20
+          <td class=3D"n_text_Gm" width=3D"133"><span id=3D"Label1">=E5=8D=
+=95=E7=AF=87=E6=9C=80=E5=A4=A7=E9=87=8D=E5=A4=8D=E5=AD=97=E6=95=B0=EF=BC=9A=
+</span></td>=20
+          <td class=3D"n_text_Gm" width=3D"110"><span class=3D"n_text_block=
+_bss">[&#xa0;<span id=3D"Label_Single_Max_Length">7</span>&#xa0;]</span></t=
+d>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <table class=3D"n_table_a" cellspacing=3D"0" cellpadding=3D"0" borde=
+r=3D"0">=20
+        <tbody>=20
+        </tbody>=20
+       </table>=20
+      </div>=20
+     </div>=20
+     <div class=3D"n_bodymid">=20
+      <div class=3D"n_bodymid_bf">=20
+       <!--=E6=A0=87=E9=A2=98-->=20
+       <table class=3D"n_table_jiebf" cellspacing=3D"0" cellpadding=3D"0" w=
+idth=3D"800" border=3D"0">=20
+        <tbody>=20
+         <tr>=20
+          <td class=3D"n_bf_bt" height=3D"30" width=3D"25">1. </td>=20
+          <td class=3D"n_text_block_bs" width=3D"499"><a name=3D"60092668_0=
+06"></a> =E9=9D=9E=E6=9F=A5=E9=87=8D=E9=83=A8=E5=88=86</td>=20
+          <td class=3D"n_table_jiebf_zzs" width=3D"116">=E6=80=BB=E5=AD=97=
+=E6=95=B0=EF=BC=9A<span class=3D"n_text_block_bs"></span>95</td>=20
+         </tr>=20
+         <tr>=20
+          <td colspan=3D"3">=20
+           <table class=3D"n_table_jiebfs" cellspacing=3D"0" cellpadding=3D=
+"0" width=3D"800" border=3D"0">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"TEXT-INDENT: 1em" width=3D"120">=E7=9B=B8=E4=BC=
+=BC=E6=96=87=E7=8C=AE=E5=88=97=E8=A1=A8</td>=20
+              <td class=3D"n_table_jiebf_fzb" width=3D"100">=E6=96=87=E5=AD=
+=97=E5=A4=8D=E5=88=B6=E6=AF=94=EF=BC=9A</td>=20
+              <td width=3D"150">=20
+               <div class=3D"n_jcjg_am">
+                0.0%=EF=BC=880=EF=BC=89
+               </div> </td>=20
+              <td class=3D"n_table_jiebf_fzb" style=3D"TEXT-ALIGN: left">=
+=E5=89=BD=E7=AA=83=E8=A7=82=E7=82=B9=EF=BC=880=EF=BC=89 </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+      </div>
+      <div id=3D"Repeater1_ctl01_Red_Content" class=3D"n_bodymid_ywnr">
+       <table class=3D"n_table_ywtop" cellspacing=3D"0" cellpadding=3D"0" w=
+idth=3D"840" border=3D"0">=20
+        <tbody>=20
+         <tr>=20
+          <td class=3D"n_ywnr" height=3D"26">=E5=8E=9F=E6=96=87=E5=86=85=E5=
+=AE=B9</td>=20
+         </tr>=20
+        </tbody>=20
+       </table>
+       <div class=3D"n_ywnr_content" style=3D"WORD-WRAP: break-word; WORD-B=
+REAK: break-all">=20
+        <!--<P>=E7=AA=97=E4=BD=93=E9=A1=B6=E7=AB=AF</P>
+        <P><SPAN class=3DFont_Color_Red>=E6=91=98=E8=A6=81:=E9=98=85=E8=AF=
+=BB=E5=8F=AF=E4=BB=A5=E8=AF=B4=E6=98=AF=E8=AF=AD=E6=96=87=E7=9A=84=E6=A0=B9=
+=E6=8D=AE,=E5=AE=83=E6=98=AF=E5=AE=8C=E6=88=90=E8=AF=AD=E6=96=87=E6=95=99=
+=E5=AD=A6=E7=9A=84=E9=87=8D=E8=A6=81=E6=96=B9=E5=BC=8F=E3=80=82</SPAN>
+        <SPAN class=3DFont_Color_Red>=E5=9C=A8=E5=B0=8F=E5=AD=A6=E6=98=AF=
+=E5=9F=B9=E5=85=BB=E5=AD=A6=E7=94=9F=E8=AF=AD=E6=96=87=E7=94=9F=E6=B6=AF=E7=
+=9A=84=E5=9F=BA=E7=A1=80,=E5=8F=AF=E4=BB=A5=E8=AF=B4=E6=98=AF=E9=9D=9E=E5=
+=B8=B8=E9=87=8D=E8=A6=81=E3=80=82</SPAN>
+        </P>-->=20
+        <p>=E5=AD=A6=E5=A3=AB=E5=AD=A6=E4=BD=8D=E8=AE=BA=E6=96=87</p>
+        <p>=E5=9F=BA=E4=BA=8E=E9=82=BB=E5=9F=9F=E7=9B=B4=E6=96=B9=E5=9B=BE=
+=E5=88=86=E5=B8=83=E7=9A=84Vibe=E7=AE=97=E6=B3=95</p>
+        <p>=E5=AD=A6 =E9=99=A2 =E8=AE=A1=E7=AE=97=E6=9C=BA=E7=A7=91=E5=AD=
+=A6=E4=B8=8E=E6=8A=80=E6=9C=AF</p>
+        <p>=E4=B8=93 =E4=B8=9A =E8=AE=A1=E7=AE=97=E6=9C=BA=E7=A7=91=E6=8A=
+=80=E4=B8=8E=E6=8A=80=E6=9C=AF</p>
+        <p>=E7=A0=94 =E7=A9=B6 =E6=96=B9 =E5=90=91 =E6=95=B0=E5=AD=97=E5=9B=
+=BE=E5=83=8F=E5=A4=8D=E5=8E=9F</p>
+        <p>=E5=AD=A6 =E7=94=9F =E5=A7=93 =E5=90=8D =E6=9D=A8=E5=BF=83=E5=A6=
+=82</p>
+        <p>=E5=AD=A6 =E5=8F=B7 20131202081</p>
+        <p>=E6=8C=87=E5=AF=BC=E6=95=99=E5=B8=88=E5=A7=93=E5=90=8D =E6=B4=AA=
+=E7=95=99=E8=8D=A3</p>
+        <p>=E6=8C=87=E5=AF=BC=E6=95=99=E5=B8=88=E8=81=8C=E7=A7=B0 =E6=95=99=
+=E6=8E=88</p>
+        <p>2017=E5=B9=B44=E6=9C=8822=E6=97=A5</p>
+        <p>=E5=9F=BA=E4=BA=8E=E9=82=BB=E5=9F=9F=E7=9B=B4=E6=96=B9=E5=9B=BE=
+=E5=88=86=E5=B8=83=E7=9A=84Vibe=E7=AE=97=E6=B3=95</p>
+       </div>
+      </div>
+      <div class=3D"n_bodymid_bf">=20
+       <!--=E6=A0=87=E9=A2=98-->=20
+       <table class=3D"n_table_jiebf" cellspacing=3D"0" cellpadding=3D"0" w=
+idth=3D"800" border=3D"0">=20
+        <tbody>=20
+         <tr>=20
+          <td class=3D"n_bf_bt" height=3D"30" width=3D"25">2. </td>=20
+          <td class=3D"n_text_block_bs" width=3D"499"><a name=3D"60092668_0=
+06"></a> =E5=9F=BA=E4=BA=8E=E9=82=BB=E5=9F=9F=E7=9B=B4=E6=96=B9=E5=9B=BE=E5=
+=88=86=E5=B8=83=E7=9A=84Vibe=E7=AE=97=E6=B3=95.d_=E7=AC=AC1=E9=83=A8=E5=88=
+=86</td>=20
+          <td class=3D"n_table_jiebf_zzs" width=3D"116">=E6=80=BB=E5=AD=97=
+=E6=95=B0=EF=BC=9A<span class=3D"n_text_block_bs"></span>4426</td>=20
+         </tr>=20
+         <tr>=20
+          <td colspan=3D"3">=20
+           <table class=3D"n_table_jiebfs" cellspacing=3D"0" cellpadding=3D=
+"0" width=3D"800" border=3D"0">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"TEXT-INDENT: 1em" width=3D"120">=E7=9B=B8=E4=BC=
+=BC=E6=96=87=E7=8C=AE=E5=88=97=E8=A1=A8</td>=20
+              <td class=3D"n_table_jiebf_fzb" width=3D"100">=E6=96=87=E5=AD=
+=97=E5=A4=8D=E5=88=B6=E6=AF=94=EF=BC=9A</td>=20
+              <td width=3D"150">=20
+               <div class=3D"n_jcjg_am">
+                0.4%=EF=BC=8817=EF=BC=89
+               </div> </td>=20
+              <td class=3D"n_table_jiebf_fzb" style=3D"TEXT-ALIGN: left">=
+=E5=89=BD=E7=AA=83=E8=A7=82=E7=82=B9=EF=BC=880=EF=BC=89 </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <div class=3D"n_xu">=20
+        <table class=3D"n_table_a" cellspacing=3D"0" cellpadding=3D"0" bord=
+er=3D"0">=20
+         <tbody>=20
+          <tr>=20
+           <td class=3D"n_xu_a n_text_back_a" width=3D"20">1</td>=20
+           <td class=3D"n_text_G2 huanhang" width=3D"620"><a href=3D"http:/=
+/www.cnki.net/" target=3D"_blank"></a>=E8=9E=8D=E5=90=88=E6=97=B6=E5=9F=9F=
+=E4=BF=A1=E6=81=AF=E7=9A=84=E8=87=AA=E9=80=82=E5=BA=94ViBe=E7=AE=97=E6=B3=
+=95_=E7=9E=BF=E4=B8=AD_=E5=88=98=E5=B8=85_=E5=88=98=E5=A6=8D - =E9=81=93=E5=
+=AE=A2=E5=B7=B4=E5=B7=B4</td>=20
+           <td class=3D"n_xu_d n_text_red_d" rowspan=3D"2" width=3D"100">0.=
+2%=EF=BC=887=EF=BC=89</td>=20
+          </tr>=20
+          <tr>=20
+           <td></td>=20
+           <td class=3D"n_text_block_b huanhang">=E3=80=8A=E4=BA=92=E8=81=
+=94=E7=BD=91=E8=B5=84=E6=BA=90=E5=BA=93(<a href=3D"http://www.doc88.com/p-9=
+337876520606.html" style=3D"COLOR: rgb(0,0,0)" target=3D"_blank">http://www=
+.doc88.com/p-9</a>)=E3=80=8B</td>=20
+          </tr>=20
+         </tbody>=20
+        </table>=20
+       </div>
+       <div class=3D"n_xu">=20
+        <table class=3D"n_table_a" cellspacing=3D"0" cellpadding=3D"0" bord=
+er=3D"0">=20
+         <tbody>=20
+          <tr>=20
+           <td class=3D"n_xu_a n_text_back_a" width=3D"20">2</td>=20
+           <td class=3D"n_text_G2 huanhang" width=3D"620"><a href=3D"http:/=
+/www.cnki.net/" target=3D"_blank"></a>=E8=83=8C=E6=99=AF=E6=9B=B4=E6=96=B0=
+=E5=9C=A8=E7=94=B5=E4=BF=A1=E6=8A=80=E6=9C=AF=E5=88=86=E7=B1=BB=E4=B8=AD=E7=
+=9A=84=E7=BF=BB=E8=AF=91=E7=BB=93=E6=9E=9C--cnki=E7=BF=BB=E8=AF=91=E5=8A=A9=
+=E6=89=8B</td>=20
+           <td class=3D"n_xu_d n_text_red_d" rowspan=3D"2" width=3D"100">0.=
+1%=EF=BC=886=EF=BC=89</td>=20
+          </tr>=20
+          <tr>=20
+           <td></td>=20
+           <td class=3D"n_text_block_b huanhang">=E3=80=8A=E4=BA=92=E8=81=
+=94=E7=BD=91=E8=B5=84=E6=BA=90=E5=BA=93(<a href=3D"http://dict.cnki.net/h_7=
+23016136.html" style=3D"COLOR: rgb(0,0,0)" target=3D"_blank">http://dict.cn=
+ki.net/h_7</a>)=E3=80=8B</td>=20
+          </tr>=20
+         </tbody>=20
+        </table>=20
+       </div>
+      </div>
+      <div id=3D"Repeater1_ctl01_Red_Content" class=3D"n_bodymid_ywnr">
+       <table class=3D"n_table_ywtop" cellspacing=3D"0" cellpadding=3D"0" w=
+idth=3D"840" border=3D"0">=20
+        <tbody>=20
+         <tr>=20
+          <td class=3D"n_ywnr" height=3D"26">=E5=8E=9F=E6=96=87=E5=86=85=E5=
+=AE=B9</td>=20
+         </tr>=20
+        </tbody>=20
+       </table>
+       <div class=3D"n_ywnr_content" style=3D"WORD-WRAP: break-word; WORD-B=
+REAK: break-all">=20
+        <!--<P>=E7=AA=97=E4=BD=93=E9=A1=B6=E7=AB=AF</P>
+        <P><SPAN class=3DFont_Color_Red>=E6=91=98=E8=A6=81:=E9=98=85=E8=AF=
+=BB=E5=8F=AF=E4=BB=A5=E8=AF=B4=E6=98=AF=E8=AF=AD=E6=96=87=E7=9A=84=E6=A0=B9=
+=E6=8D=AE,=E5=AE=83=E6=98=AF=E5=AE=8C=E6=88=90=E8=AF=AD=E6=96=87=E6=95=99=
+=E5=AD=A6=E7=9A=84=E9=87=8D=E8=A6=81=E6=96=B9=E5=BC=8F=E3=80=82</SPAN>
+        <SPAN class=3DFont_Color_Red>=E5=9C=A8=E5=B0=8F=E5=AD=A6=E6=98=AF=
+=E5=9F=B9=E5=85=BB=E5=AD=A6=E7=94=9F=E8=AF=AD=E6=96=87=E7=94=9F=E6=B6=AF=E7=
+=9A=84=E5=9F=BA=E7=A1=80,=E5=8F=AF=E4=BB=A5=E8=AF=B4=E6=98=AF=E9=9D=9E=E5=
+=B8=B8=E9=87=8D=E8=A6=81=E3=80=82</SPAN>
+        </P>-->=20
+        <p>=E6=91=98=E8=A6=81 =E8=BF=90=E5=8A=A8=E7=9B=AE=E6=A0=87=E6=A3=80=
+=E6=B5=8B=E5=B7=B2=E7=BB=8F=E7=A7=B0=E4=B8=BA=E8=AE=A1=E7=AE=97=E6=9C=BA=E8=
+=A7=86=E8=A7=89=E9=A2=86=E5=9F=9F=E4=B8=AD=E4=B8=BE=E8=B6=B3=E8=BD=BB=E9=87=
+=8D=E7=9A=84=E4=B8=80=E4=B8=AA=E5=88=86=E6=94=AF=EF=BC=8C=E5=85=B6=E4=B8=AD=
+=E6=9C=89=E5=BE=88=E5=A4=9A=E6=96=B9=E6=B3=95=E7=94=A8=E4=BB=A5=E5=88=86=E5=
+=89=B2=E8=BF=90=E5=8A=A8=E7=9B=AE=E6=A0=87=EF=BC=8C=E8=80=8C=E6=9C=80=E4=B8=
+=BA=E7=BB=8F=E5=85=B8=E7=9A=84=E5=8D=B3=E4=B8=BA=E5=89=8D=E6=99=AF=E5=88=86=
+=E5=89=B2=EF=BC=8C=E5=8D=B3=E4=BD=BF=E7=94=A8=E8=83=8C=E6=99=AF=E6=A8=A1=E6=
+=9D=BF=E6=9D=A5=E5=88=86=E5=89=B2=E5=87=BA=E5=89=8D=E6=99=AF=E8=BF=90=E5=8A=
+=A8=E7=89=A9=E4=BD=93=EF=BC=8C=E8=80=8CVibe=E5=8D=B3=E4=B8=BA=E8=BF=99=E4=
+=B8=80=E6=80=9D=E6=83=B3=E4=B8=8B=E7=9A=84=E5=85=B8=E5=9E=8B=E7=AE=97=E6=B3=
+=95=E4=BA=A7=E7=89=A9=E3=80=82=E7=84=B6=E8=80=8C=E5=9B=A0=E4=B8=BA=E5=85=89=
+=E7=BA=BF=E3=80=81=E7=A1=AC=E4=BB=B6=E7=94=9A=E8=87=B3=E6=B8=A9=E5=BA=A6=E7=
+=AD=89=E5=8E=9F=E5=9B=A0=EF=BC=8C=E8=83=8C=E6=99=AF=E4=B8=AD=E7=9A=84=E9=AC=
+=BC=E5=BD=B1=E6=88=96=E9=98=B4=E5=BD=B1=E4=BC=9A=E4=B8=BA=E5=88=86=E5=89=B2=
+=E5=B8=A6=E6=9D=A5=E5=BE=88=E5=A4=A7=E7=9A=84=E5=B9=B2=E6=89=B0=E3=80=82=E4=
+=B8=BA=E8=A7=A3=E5=86=B3=E5=8E=9FVibe=E7=AE=97=E6=B3=95=E4=B8=AD=E5=AD=98=
+=E5=9C=A8=E7=9A=84=E9=AC=BC=E5=BD=B1=E6=88=96=E9=98=B4=E5=BD=B1=E6=B6=88=E9=
+=99=A4=E6=BB=9E=E5=90=8E=E7=9A=84=E9=97=AE=E9=A2=98=EF=BC=8C=E5=88=A9=E7=94=
+=A8=E9=AC=BC=E5=BD=B1=E4=B8=8E=E8=83=8C=E6=99=AF=E5=B8=A7=E7=9B=B8=E4=BC=BC=
+=E8=80=8C=E8=BF=90=E5=8A=A8=E7=9B=AE=E6=A0=87=E4=B8=8E=E8=83=8C=E6=99=AF=E5=
+=B8=A7=E5=B7=AE=E5=BC=82=E6=9B=B4=E5=A4=A7=E7=9A=84=E7=89=B9=E7=82=B9=EF=BC=
+=8C=E6=8F=90=E5=87=BA=E4=B8=80=E7=A7=8D=E5=9F=BA=E4=BA=8E=E9=82=BB=E5=9F=9F=
+=E8=83=8C=E6=99=AF=E5=83=8F=E7=B4=A0=E7=9B=B4=E6=96=B9=E5=9B=BE=E7=9B=B8=E4=
+=BC=BC=E5=BA=A6=E5=8C=B9=E9=85=8D=E7=9A=84=E6=96=B9=E6=B3=95=E6=9D=A5=E5=BF=
+=AB=E9=80=9F=E6=A3=80=E6=B5=8B=E9=AC=BC=E5=BD=B1=E5=B9=B6=E6=9B=B4=E6=96=B0=
+=E8=83=8C=E6=99=AF=E6=A8=A1=E5=9E=8B=EF=BC=8C=E6=9C=AC=E6=96=87=E4=BD=BF=E7=
+=94=A8=E7=9B=B8=E5=85=B3=E7=B3=BB=E6=95=B0=E6=9D=A5=E8=A1=A8=E5=BE=81=E7=9B=
+=B8=E4=BC=BC=E5=BA=A6=E3=80=82=E5=9C=A8=E6=B1=BD=E8=BD=A6=E5=BF=AB=E9=80=9F=
+=E9=80=9A=E8=BF=87=E9=81=93=E8=B7=AF=E7=9A=84=E8=A7=86=E9=A2=91=E4=B8=8A=E8=
+=BF=9B=E8=A1=8C=E4=BB=BF=E7=9C=9F=E5=92=8C=E5=AE=9E=E9=AA=8C=EF=BC=8C=E6=9C=
+=80=E7=BB=88=E7=BB=93=E6=9E=9C=E8=A1=A8=E6=98=8E=EF=BC=8C=E6=94=B9=E8=BF=9B=
+=E5=90=8E=E7=9A=84=E7=AE=97=E6=B3=95=E5=B0=86=E9=AC=BC=E5=BD=B1=E6=B6=88=E9=
+=99=A4=E6=95=88=E7=8E=87=E6=8F=90=E9=AB=98=E4=BA=86=E8=87=B3=E5=B0=9150%=EF=
+=BC=8C=E4=BA=8B=E5=AE=9E=E8=A1=A8=E6=98=8E=EF=BC=8C=E8=BF=99=E7=A7=8D=E6=96=
+=B9=E6=B3=95=E5=9C=A8=E5=8E=9F=E7=90=86=E4=B8=8A=E5=AE=8C=E5=85=A8=E5=8F=AF=
+=E8=A1=8C=EF=BC=8C=E4=BD=86=E4=BA=A6=E9=9C=80=E8=A6=81=E6=9B=B4=E5=A4=9A=E7=
+=9A=84=E4=BC=98=E5=8C=96=E6=9D=A5=E6=8F=90=E9=AB=98=E5=85=B6=E5=B7=A5=E4=BD=
+=9C=E6=95=88=E7=8E=87=E3=80=82</p>
+        <p>=E5=85=B3=E9=94=AE=E8=AF=8D Vibe=EF=BC=8C=E5=B8=A7=E5=B7=AE=E6=
+=B3=95=EF=BC=8C=E7=9B=B4=E6=96=B9=E5=9B=BE=EF=BC=8C=E7=9B=AE=E6=A0=87=E6=A3=
+=80=E6=B5=8BGhost Removal and Detection of Moving Target based on Vibe Algo=
+rithm</p>
+        <p>Abstract Moving target detection has been called a pivotal branc=
+h in the field of computer vision.There are many ways to segment moving tar=
+gets,and the most classic is foreground segmentation, which uses background=
+ templates to segment foreground moving objects, and Vibe is this. A typica=
+l algorithm product under the idea.However, due to light, hardware, or even=
+ temperature,ghosts or shadows in the background can cause a lot of interfe=
+rence in the segmentation. In order to solve the problem of ghost or shadow=
+ elimination lag in the original Vibe algorithm, using the similarity of gh=
+ost image and background frameand the difference between moving target and =
+background frame,a similarity based on neighboring background pixel histogr=
+am similarity matching is proposed. The method is to<span class=3D"Font_Col=
+or_Red"> quickly detect ghosts and update the background model.</span>This =
+paper uses correlation coefficients to characterize similarity.Simulations =
+and experiments were carried out on the video of the car passing the road q=
+uickly.<span class=3D"Font_Color_Red">The final result shows that the impro=
+ved algorithm imp</span>roves the ghost elimination efficiency by at least =
+50%. The facts show that this method is completely feasible in principle,bu=
+t it also needs more Optimize to increase its productivity.</p>
+        <p>Key words Vibe, Frame difference method, Histogram, Target Detec=
+tion</p>
+        <p>=E7=9B=AE =E5=BD=95</p>
+        <p>=E7=BB=AA=E8=AE=BA1</p>
+        <p>1.1=E8=AE=BA=E6=96=87=E7=A0=94=E7=A9=B6=E7=9A=84=E7=9B=AE=E7=9A=
+=84=E5=8F=8A=E6=84=8F1</p>
+        <p>1.3=E8=AE=BA=E6=96=87=E4=B8=BB=E8=A6=81=E7=A0=94=E7=A9=B6=E5=86=
+=85=E5=AE=B92</p>
+        <p>2.Vibe=E7=AE=97=E6=B3=95=E5=9F=BA=E7=A1=802</p>
+        <p>2.1=E7=AE=97=E6=B3=95=E6=A6=82=E8=BF=B02</p>
+        <p>2.2=E7=AE=97=E6=B3=95=E6=A8=A1=E5=9E=8B2</p>
+        <p>2.3=E5=AE=9E=E9=AA=8C=E7=BB=93=E6=9E=9C4</p>
+        <p>3.=E5=9F=BA=E4=BA=8E=E7=9B=B4=E6=96=B9=E5=9B=BE=E6=94=B9=E8=BF=
+=9B=E7=9A=84Vibe=E7=AE=97=E6=B3=955</p>
+        <p>3.1=E7=AE=97=E6=B3=95=E6=A6=82=E8=BF=B05</p>
+        <p>3.2=E7=AE=97=E6=B3=95=E6=A8=A1=E5=9E=8B5</p>
+        <p>3.3 =E4=BB=A3=E7=A0=81=E5=AE=9E=E7=8E=B05</p>
+        <p>3.4=E5=AE=9E=E9=AA=8C=E7=BB=93=E6=9E=9C6</p>
+        <p>=E6=80=BB=E7=BB=937</p>
+        <p>=E5=8F=82=E8=80=83=E6=96=87=E7=8C=AE8</p>
+        <p>=E8=87=B4 =E8=B0=A29</p>
+        <p>=E7=BB=AA=E8=AE=BA</p>
+        <p>=E8=AE=BA=E6=96=87=E7=A0=94=E7=A9=B6=E7=9A=84=E7=9B=AE=E7=9A=84=
+=E5=8F=8A=E6=84=8F</p>
+        <p>=E4=BA=BA=E7=B1=BB=E7=AC=AC=E4=B8=80=E6=AC=A1=E7=9C=9F=E6=AD=A3=
+=E6=84=8F=E4=B9=89=E4=B8=8A=E7=9A=84=E6=95=B0=E5=AD=97=E5=9B=BE=E5=83=8F=E5=
+=A4=84=E7=90=86=E6=98=AF=E5=9C=A81960=E5=B9=B4=E5=B7=A6=E5=8F=B3=EF=BC=8C=
+=E5=96=B7=E6=B0=94=E6=8E=A8=E8=BF=9B=E5=AE=9E=E9=AA=8C=E5=AE=A4&#xa0;=EF=BC=
+=88Jet Propulsion Laboratory=EF=BC=8CJPL=EF=BC=89=E4=BD=BF=E7=94=A8=E6=95=
+=B0=E5=AD=97=E5=9B=BE=E5=83=8F=E5=A4=84=E7=90=86=E6=8A=80=E6=9C=AF=E5=A4=84=
+=E7=90=86=E4=BA=86=E5=A4=A7=E9=87=8F=E7=9A=84=E6=9C=88=E7=90=83=E8=A1=A8=E6=
+=98=8E=E5=9B=BE=E5=83=8F=E3=80=82=E5=9C=A8=E4=B9=8B=E5=90=8E=E7=9A=84=E5=87=
+=A0=E5=8D=81=E5=B9=B4=E5=8F=91=E5=B1=95=E4=B8=AD=EF=BC=8C=E6=95=B0=E5=AD=97=
+=E5=9B=BE=E5=83=8F=E5=A4=84=E7=90=86=E5=B7=B2=E7=BB=8F=E6=88=90=E4=B8=BA=E8=
+=AE=A1=E7=AE=97=E6=9C=BA=E8=A7=86=E8=A7=89=EF=BC=88CV=EF=BC=89=E4=B8=AD=E4=
+=B8=8D=E5=8F=AF=E5=BF=BD=E7=95=A5=E7=9A=84=E4=B8=80=E9=83=A8=E5=88=86=E3=80=
+=82=E7=8E=B0=E5=9C=A8=E6=95=B0=E5=AD=97=E5=9B=BE=E5=83=8F=E5=A4=84=E7=90=86=
+=E7=9A=84=E5=BA=94=E7=94=A8=E5=B7=B2=E7=BB=8F=E6=B7=B1=E5=85=A5=E7=94=9F=E6=
+=B4=BB=EF=BC=8C=E5=A4=A7=E5=88=B0=E5=A4=AA=E7=A9=BA=E6=8E=A2=E7=B4=A2=EF=BC=
+=8C=E4=BE=8B=E5=A6=82=E4=BA=BA=E7=B1=BB=E8=8E=B7=E5=8F=96=E5=88=B0=E7=9A=84=
+=E7=AC=AC=E4=B8=80=E5=BC=A0=E9=BB=91=E6=B4=9E=E7=9A=84=E5=9B=BE=E7=89=87=E5=
+=B0=B1=E6=98=AF=E7=94=B1=E6=88=90=E5=90=A8=E7=9A=84=E6=95=B0=E6=8D=AE=E6=9C=
+=80=E7=BB=88=E5=A4=84=E7=90=86=E8=80=8C=E5=BE=97=EF=BC=8C=E5=B0=8F=E5=88=B0=
+=E6=88=91=E4=BB=AC=E6=97=A5=E5=B8=B8=E7=9A=84=E6=94=AF=E4=BB=98=E5=92=8C=E5=
+=8C=BB=E7=96=97=EF=BC=8C=E5=A6=82=E6=94=AF=E4=BB=98=E5=AE=9D=E7=9A=84=E7=BA=
+=BF=E4=B8=8B=E4=BA=BA=E8=84=B8=E8=AF=86=E5=88=AB=E4=BB=98=E6=AC=BE=E5=8F=8A=
+X-ray=E8=BE=85=E5=8A=A9=E8=AF=8A=E6=96=AD=E8=BD=AF=E4=BB=B6=E7=AD=89=E3=80=
+=82</p>
+        <p>=E8=80=8C=E5=AF=B9=E8=BF=90=E5=8A=A8=E4=B8=AD=E7=9A=84=E7=9B=AE=
+=E6=A0=87=E8=BF=9B=E8=A1=8C=E6=A3=80=E6=B5=8B=EF=BC=88Vibe=EF=BC=89=E6=98=
+=AF=E5=BD=93=E4=B8=8B=E7=BB=A7=E7=9B=AE=E6=A0=87=E8=AF=86=E5=88=AB=E5=8F=8A=
+=E7=9B=AE=E6=A0=87=E8=BF=BD=E8=B8=AA=E5=90=8E=EF=BC=8C=E5=9C=A8=E8=AE=A1=E7=
+=AE=97=E6=9C=BA=E8=A7=86=E8=A7=89=E4=B8=AD=E4=B8=BE=E8=B6=B3=E8=BD=BB=E9=87=
+=8D=E7=9A=84=E4=B8=80=E9=A1=B9=E5=85=B3=E9=94=AE=E6=8A=80=E6=9C=AF=E3=80=82=
+=E6=9C=80=E5=B8=B8=E7=94=A8=E7=9A=84=E6=96=B9=E6=B3=95=E6=98=AF=E5=88=A9=E7=
+=94=A8=E5=BD=93=E5=89=8D=E5=9B=BE=E5=83=8F=E4=B8=8E=E8=83=8C=E6=99=AF=E5=9B=
+=BE=E5=83=8F=E8=BF=9B=E8=A1=8C=E5=B7=AE=E5=88=86=E8=BF=90=E7=AE=97=EF=BC=8C=
+=E8=BF=9B=E8=80=8C=E5=BE=97=E5=88=B0=E5=89=8D=E6=99=AF=E5=9B=BE=E5=83=8F=EF=
+=BC=8C=E4=BD=86=E7=94=B1=E4=BA=8E=E6=91=84=E5=BD=B1=E9=95=9C=E7=89=87=E5=8F=
+=8A=E5=85=89=E7=BA=BF=E7=AD=89=E5=8E=9F=E5=9B=A0=EF=BC=8C=E5=9C=A8=E9=98=88=
+=E5=80=BC=E5=B7=AE=E5=88=86=E6=93=8D=E4=BD=9C=E5=90=8E=EF=BC=8C=E5=9B=BE=E4=
+=B8=AD=E4=BC=9A=E6=9C=89=E4=B8=80=E4=BA=9B=E2=80=9C=E9=AC=BC=E5=BD=B1=E2=80=
+=9D=EF=BC=8C=E9=82=A3=E4=BA=9B=E9=AC=BC=E5=BD=B1=E5=8F=AF=E4=BB=A5=E9=80=9A=
+=E8=BF=87=E4=B8=80=E4=BA=9B=E9=A2=9C=E8=89=B2=E9=80=9A=E9=81=93=E7=9A=84=E6=
+=96=B9=E5=BC=8F=E6=9D=A5=E5=8E=BB=E9=99=A4=EF=BC=8C=E4=BD=86=E5=85=B6=E4=B8=
+=AD=E7=9A=84=E5=8F=82=E6=95=B0=E5=BE=88=E9=9A=BE=E6=99=AE=E9=80=82=E3=80=82=
+=E5=85=B6=E5=AE=9E=E9=AC=BC=E5=BD=B1=E5=92=8C=E8=BF=90=E5=8A=A8=E7=9B=AE=E6=
+=A0=87=E7=9B=B8=E6=AF=94=EF=BC=8C=E5=AE=83=E5=92=8C=E8=83=8C=E6=99=AF=E6=A8=
+=A1=E5=9E=8B=E7=9A=84=E7=9B=B8=E4=BC=BC=E5=BA=A6=E6=9B=B4=E9=AB=98=EF=BC=8C=
+=E6=88=91=E4=BB=AC=E5=8F=AF=E4=BB=A5=E6=A0=B9=E6=8D=AE=E8=BF=99=E4=B8=80=E7=
+=89=B9=E6=80=A7=E6=9D=A5=E5=8E=BB=E9=99=A4=E2=80=9C=E9=AC=BC=E5=BD=B1=E2=80=
+=9D=E3=80=82=E9=AC=BC=E5=BD=B1=E6=88=96=E9=98=B4=E5=BD=B1=E7=9A=84=E5=AD=98=
+=E5=9C=A8=EF=BC=8C=E5=85=B6=E5=AE=9E=E4=B9=9F=E6=98=AF=E5=83=8F=E7=B4=A0=E9=
+=9A=8F=E6=9C=BA=E5=8F=98=E5=8C=96=E7=9A=84=E4=B8=80=E7=A7=8D=E5=8F=8D=E5=BA=
+=94=EF=BC=8C=E8=80=8CVibe=E7=AE=97=E6=B3=95=E6=9C=80=E5=A4=A7=E4=BA=AE=E7=
+=82=B9=E5=B0=B1=E6=98=AF=E5=9C=A8=E4=B8=A4=E4=B8=AA=E7=BB=B4=E5=BA=A6=E4=B8=
+=8A=E7=9A=84=E9=9A=8F=E6=9C=BA=E6=80=A7=EF=BC=8C=E5=9C=A8=E6=9F=90=E7=A7=8D=
+=E7=A8=8B=E5=BA=A6=E4=B8=8A=E4=B9=9F=E6=A8=A1=E6=8B=9F=E4=BA=86=E5=83=8F=E7=
+=B4=A0=E7=9A=84=E9=9A=8F=E6=9C=BA=E5=8F=98=E5=8C=96=EF=BC=8C=E8=BF=99=E6=A0=
+=B7=E5=8F=AF=E4=BB=A5=E6=9B=B4=E5=A5=BD=E7=9A=84=E4=BC=98=E5=8C=96=E8=83=8C=
+=E6=99=AF=E6=A8=A1=E5=9E=8B=E3=80=82</p>
+        <p>=E9=AC=BC=E5=BD=B1=E6=88=96=E9=98=B4=E5=BD=B1=E6=9C=89=E7=9A=84=
+=E6=97=B6=E5=80=99=E4=BC=9A=E5=92=8C=E7=A7=BB=E5=8A=A8=E7=89=A9=E4=BD=93=E5=
+=85=B7=E6=9C=89=E7=9B=B8=E4=BC=BC=E7=9A=84=E5=87=A0=E4=BD=95=E3=80=81=E9=A2=
+=9C=E8=89=B2=E7=AD=89=E7=89=B9=E5=BE=81=EF=BC=8C=E4=BD=86=E5=85=B6=E9=A2=9C=
+=E8=89=B2=E7=9B=B4=E6=96=B9=E5=9B=BE=E7=9A=84=E5=88=86=E5=B8=83=E5=92=8C=E7=
+=A7=BB=E5=8A=A8=E7=89=A9=E4=BD=93=E5=85=B7=E6=9C=89=E5=BE=88=E5=A4=A7=E7=9A=
+=84=E5=B7=AE=E5=BC=82=E6=80=A7=EF=BC=8C=E4=B9=9F=E5=B0=B1=E6=98=AF=E8=AF=B4=
+=E4=BB=8E=E7=BB=9F=E8=AE=A1=E5=AD=A6=E8=BF=99=E4=B8=80=E6=96=B0=E7=9A=84=E8=
+=A7=92=E5=BA=A6=E6=9D=A5=E8=A7=A3=E5=86=B3=E5=88=86=E5=89=B2=E9=97=AE=E9=A2=
+=98=EF=BC=8C=E8=BF=99=E7=BB=99=E5=90=8E=E7=BB=AD=E9=97=AE=E9=A2=98=E7=9A=84=
+=E8=A7=A3=E5=86=B3=E5=BC=95=E5=AF=BC=E4=BA=86=E4=B8=80=E4=B8=AA=E6=96=B0=E7=
+=9A=84=E6=96=B9=E5=90=91=E3=80=82</p>
+        <p>=E5=9B=BD=E5=86=85=E5=A4=96=E7=A0=94=E7=A9=B6=E7=8E=B0=E7=8A=B6<=
+/p>
+        <p>=E8=AE=A1=E7=AE=97=E6=9C=BA=E8=A7=86=E8=A7=89=EF=BC=8C=E9=A1=BE=
+=E5=90=8D=E6=80=9D=E4=B9=89=EF=BC=8C=E5=B0=B1=E6=98=AF=E4=BD=BF=E8=AE=A1=E7=
+=AE=97=E6=9C=BA=E5=85=B7=E6=9C=89=E4=BA=BA=E7=B1=BB=E7=9A=84=E8=A7=86=E8=A7=
+=89=E5=8A=9F=E8=83=BD=EF=BC=8C=E5=8D=B3=E9=80=9A=E8=BF=87=E4=B8=80=E5=B9=85=
+=E6=88=96=E5=A4=9A=E5=B9=85=E5=9B=BE=E8=8E=B7=E5=BE=97=E5=91=A8=E8=BE=B9=E7=
+=9A=84=E4=BF=A1=E6=81=AF=E3=80=82=E4=BD=9C=E4=B8=BACV=E4=B8=AD=E4=B8=80=E4=
+=B8=AA=E9=87=8D=E8=A6=81=E7=9A=84=E5=88=86=E6=94=AF=EF=BC=8C=E8=BF=90=E5=8A=
+=A8=E7=9B=AE=E6=A0=87=E6=A3=80=E6=B5=8B=E5=B8=B8=E5=B8=B8=E7=94=A8=E4=BA=8E=
+=E5=AF=B9=E8=A7=86=E9=87=8E=E5=86=85=E7=9A=84=E7=9B=AE=E6=A0=87=EF=BC=8C=E7=
+=89=B9=E5=88=AB=E6=98=AF=E8=BF=90=E5=8A=A8=E7=9B=AE=E6=A0=87=E8=BF=9B=E8=A1=
+=8C=E8=A7=82=E5=AF=9F=E3=80=81=E8=AF=86=E5=88=AB=E5=8F=8A=E8=BF=BD=E8=B8=AA=
+=E7=AD=89=E3=80=82=E7=9B=AE=E5=89=8D=EF=BC=8C=E5=85=A8=E4=B8=96=E7=95=8C=E8=
+=8C=83=E5=9B=B4=E5=86=85=E5=87=A0=E4=B9=8E=E6=89=80=E6=9C=89=E9=AB=98=E6=A0=
+=A1=E4=BB=A5=E5=8F=8A=E5=BE=88=E5=A4=9A=E5=85=AC=E5=8F=B8=E9=83=BD=E6=8A=95=
+=E5=85=A5=E6=9E=81=E5=A4=A7=E4=BA=BA=E5=8A=9B=E5=92=8C=E8=B4=A2=E5=8A=9B=E6=
+=9D=A5=E7=A0=94=E7=A9=B6=E6=99=BA=E8=83=BD=E7=9B=91=E6=8E=A7=E7=B3=BB=E7=BB=
+=9F=E7=9A=84=E7=9B=B8=E5=85=B3=E9=A1=B9=E7=9B=AE=EF=BC=8C=E5=9B=BD=E5=A4=96=
+=E5=A6=82IBM=EF=BC=8CMicrosoft=E4=BB=A5=E5=8F=8AGoogle=E7=AD=89=EF=BC=8C=E5=
+=9B=BD=E5=86=85=E4=B9=9F=E6=9C=89=E7=99=BE=E5=BA=A6=EF=BC=8C=E8=85=BE=E8=AE=
+=AF=EF=BC=8C=E9=98=BF=E9=87=8C=E5=B7=B4=E5=B7=B4=EF=BC=8C=E4=BA=AC=E4=B8=9C=
+=E7=AD=89=E5=B7=A8=E5=A4=B4=E5=85=AC=E5=8F=B8=EF=BC=8C=E4=BB=96=E4=BB=AC=E7=
+=94=9A=E8=87=B3=E4=B9=9F=E6=8E=A8=E5=87=BA=E4=BA=86=E5=BE=88=E5=A4=9A=E7=9B=
+=B8=E5=85=B3=E4=BA=A7=E5=93=81=E6=9D=A5=E6=9C=8D=E5=8A=A1=E8=87=AA=E5=B7=B1=
+=E6=88=96=E6=9C=8D=E5=8A=A1=E5=AE=A2=E6=88=B7=E3=80=82=E5=A6=82=E6=94=AF=E4=
+=BB=98=E5=AE=9D=E7=9A=84=E7=BA=BF=E4=B8=8B=E4=BA=BA=E8=84=B8=E8=AF=86=E5=88=
+=AB=E6=94=AF=E4=BB=98=EF=BC=8C=E4=BA=AC=E4=B8=9C=E7=9A=84=E6=97=A0=E4=BA=BA=
+=E7=94=9F=E4=BA=A7=E7=BA=BF=E7=AD=89=E7=AD=89=E3=80=82</p>
+        <p>=E9=92=88=E5=AF=B9=E9=AC=BC=E5=BD=B1=E6=A3=80=E6=B5=8B=E9=97=AE=
+=E9=A2=98=E7=9A=84=E6=96=87=E7=8C=AE[1]=E7=BB=93=E5=90=88=E4=BA=86=E5=B8=A7=
+=E9=97=B4=E5=8E=86=E5=8F=B2=E4=BF=A1=E6=81=AF=EF=BC=8C=E4=BD=BF=E7=94=A8=E4=
+=BA=8C=E6=AC=A1=E5=88=A4=E6=96=AD=E7=9A=84=E7=AD=96=E7=95=A5=EF=BC=8C=E6=8F=
+=90=E5=87=BA=E4=B8=8E=E5=B8=A7=E5=B7=AE=E6=B3=95=E7=9B=B8=E7=BB=93=E5=90=88=
+=E6=9D=A5=E6=8A=91=E5=88=B6=E6=88=96=E6=B6=88=E9=99=A4=E9=AC=BC=E5=BD=B1=E7=
+=9A=84=E6=96=B9=E6=B3=95=EF=BC=9B=E6=96=87=E7=8C=AE[2]=E5=88=A9=E7=94=A8=E6=
+=9B=B4=E5=A4=A7=E7=9A=84=E6=9B=B4=E6=96=B0=E5=8F=82=E6=95=B0=E5=BF=AB=E9=80=
+=9F=E6=B6=88=E9=99=A4=E9=AC=BC=E5=BD=B1=EF=BC=8C=E4=BD=86=E5=B8=A6=E6=9D=A5=
+=E7=9B=B8=E5=BA=94=E7=9A=84=E9=97=AE=E9=A2=98=EF=BC=8C=E4=BC=9A=E5=B0=86=E8=
+=BF=90=E5=8A=A8=E8=BE=83=E6=85=A2=E7=9A=84=E7=89=A9=E4=BD=93=E5=8A=A0=E5=85=
+=A5=E5=88=B0=E8=83=8C=E6=99=AF=E6=A8=A1=E5=9E=8B=E4=B8=AD=E3=80=82=E9=92=88=
+=E5=AF=B9=E9=98=B4=E5=BD=B1=E6=A3=80=E6=B5=8B=E4=B8=BB=E8=A6=81=E6=9C=89=E5=
+=9F=BA=E4=BA=8E=E5=87=A0=E4=BD=95=E6=A8=A1=E5=9E=8B[3]=E4=BB=A5=E5=8F=8A=E5=
+=9F=BA=E4=BA=8E=E9=98=B4=E5=BD=B1=E7=89=B9=E5=BE=81[4-5]=E7=AD=89=E4=B8=A4=
+=E7=B1=BB=E6=96=B9=E6=B3=95=E3=80=82=E5=9F=BA=E4=BA=8E=E5=87=A0=E4=BD=95=E6=
+=A8=A1=E5=9E=8B=E7=9A=84=E6=96=B9=E6=B3=95=E4=B8=80=E8=88=AC=E5=8F=AA=E8=83=
+=BD=E5=9C=A8=E7=89=B9=E5=AE=9A=E7=8E=AF=E5=A2=83=E6=9D=A1=E4=BB=B6=E4=B8=8B=
+=E4=BD=BF=E7=94=A8=EF=BC=8C=E8=80=8C=E4=B8=94=E7=94=A8=E5=AE=83=E8=BF=9B=E8=
+=A1=8C=E5=BB=BA=E6=A8=A1=E5=92=8C=E8=AE=A1=E7=AE=97=E9=83=BD=E6=98=AF=E6=9E=
+=81=E5=85=B6=E5=A4=8D=E6=9D=82=E7=9A=84=EF=BC=9B=E5=9F=BA=E4=BA=8E=E9=98=B4=
+=E5=BD=B1=E7=89=B9=E5=BE=81=E7=9A=84=E6=A3=80=E6=B5=8B=E6=96=B9=E6=B3=95=E9=
+=80=9A=E5=B8=B8=E5=81=87=E8=AE=BE=E6=8A=95=E5=B0=84=E9=98=B4=E5=BD=B1=E4=BA=
+=AE=E5=BA=A6=E4=BD=8E=E4=BA=8E=E6=9F=90=E4=B8=AA=E9=98=88=E5=80=BC=E8=80=8C=
+=E4=B8=94=E6=B2=A1=E6=9C=89=E6=98=8E=E6=98=BE=E7=9A=84=E8=89=B2=E5=BA=A6=E5=
+=8F=98=E5=8C=96=EF=BC=8C=E8=BF=99=E4=B8=80=E8=88=AC=E7=94=A8=E4=BA=8E=E5=AE=
+=B9=E6=98=93=E8=BF=9B=E8=A1=8C=E8=89=B2=E5=BD=A9=E6=AF=94=E8=BE=83=E7=9A=84=
+=E8=89=B2=E5=BD=A9=E7=A9=BA=E9=97=B4=EF=BC=8C=E6=AF=94=E5=A6=82RGB=E6=88=96=
+=E8=80=85HSV=E7=AD=89=E3=80=82=E4=BD=86=E5=85=B6=E8=A6=81=E6=B1=82=E7=9B=B8=
+=E5=AF=B9=E6=AF=94=E8=BE=83=E4=B8=A5=E8=8B=9B=EF=BC=8C=E8=80=8C=E4=B8=94=E9=
+=81=87=E5=88=B0=E5=BD=A9=E8=89=B2=E9=98=B4=E5=BD=B1=E6=97=B6=EF=BC=8C=E5=85=
+=B6=E8=A1=8C=E8=83=BD=E5=8F=88=E4=BC=9A=E4=B8=8B=E9=99=8D=E3=80=82</p>
+        <p>1.3 =E8=AE=BA=E6=96=87=E4=B8=BB=E8=A6=81=E7=A0=94=E7=A9=B6=E5=86=
+=85=E5=AE=B9</p>
+        <p>=E9=AC=BC=E5=BD=B1=E5=8C=BA=E5=9F=9F=E5=92=8C=E5=AE=83=E9=82=BB=
+=E8=BF=91=E8=83=8C=E6=99=AF=E5=8C=BA=E5=9F=9F=E7=9A=84=E5=83=8F=E7=B4=A0=E7=
+=89=B9=E5=BE=81=E9=9D=9E=E5=B8=B8=E7=9B=B8=E4=BC=BC=EF=BC=8C=E8=80=8C=E8=BF=
+=90=E5=8A=A8=E7=9B=AE=E6=A0=87=E4=B8=8E=E8=83=8C=E6=99=AF=E5=83=8F=E7=B4=A0=
+=E7=89=B9=E5=BE=81=E5=B7=AE=E5=BC=82=E8=BE=83=E5=A4=A7=EF=BC=8C=E6=9C=AC=E6=
+=96=87=E5=88=A9=E7=94=A8=E8=BF=99=E4=B8=80=E7=89=B9=E6=80=A7=EF=BC=8C=E5=9C=
+=A8Vibe=E7=AE=97=E6=B3=95=E6=8F=90=E5=8F=96=E5=89=8D=E6=99=AF=E7=9A=84=E5=
+=9F=BA=E7=A1=80=E4=B8=8A=E8=AE=A1=E7=AE=97=E5=89=8D=E6=99=AF=E5=8C=BA=E5=9F=
+=9F=E4=B8=8E=E9=82=BB=E8=BF=91=E8=83=8C=E6=99=AF=E5=8C=BA=E5=9F=9F=E7=9A=84=
+=E5=83=8F=E7=B4=A0=E5=88=86=E5=B8=83=E7=9B=B4=E6=96=B9=E5=9B=BE=EF=BC=8C=E8=
+=AE=BE=E7=AB=8B=E5=8C=B9=E9=85=8D=E9=98=88=E5=80=BC=E4=BB=8E=E8=80=8C=E6=9C=
+=89=E6=95=88=E7=9A=84=E5=8C=BA=E5=88=86=E5=87=BA=E8=BF=90=E5=8A=A8=E7=9B=AE=
+=E6=A0=87=E5=92=8C=E9=AC=BC=E5=BD=B1=E3=80=82=E8=87=B3=E4=BA=8E=E8=89=B2=E5=
+=BD=A9=E7=A9=BA=E9=97=B4=E7=9A=84=E9=80=89=E5=8F=96=E9=97=AE=E9=A2=98=EF=BC=
+=8C=E6=9C=AC=E6=96=87=E9=80=89=E5=8F=96RGB=E8=89=B2=E5=BD=A9=E7=A9=BA=E9=97=
+=B4=EF=BC=8C=E5=B9=B6=E4=B8=94=E6=B2=A1=E6=9C=89=E7=9B=B4=E6=8E=A5=E6=AF=94=
+=E8=BE=83=EF=BC=8C=E8=80=8C=E6=98=AF=E7=9B=B4=E6=8E=A5=E8=BD=AC=E4=B8=BA=E7=
+=81=B0=E5=BA=A6=E5=9B=BE=E8=BF=9B=E8=A1=8C=E5=A4=84=E7=90=86=EF=BC=8C=E6=9C=
+=80=E5=90=8E=E8=BF=9B=E8=A1=8C=E9=98=88=E5=80=BC=E5=88=86=E5=89=B2=E3=80=82=
+</p>
+        <p>=E6=9C=AC=E8=AE=BA=E6=96=87=E4=B8=BB=E4=BD=93=E5=88=86=E4=B8=BA=
+=E7=AB=A0=EF=BC=8C=E6=96=87=E7=AB=A0=E9=A6=96=E5=85=88=E6=8E=A2=E8=AE=A8=E4=
+=BA=86Vibe=E7=AE=97=E6=B3=95=E7=9A=84=E5=8E=9F=E5=9E=8B=E3=80=82=E7=BB=AA=
+=E8=AE=BA=E9=83=A8=E5=88=86=E4=BB=8B=E7=BB=8D=E4=BA=86=E8=AE=A1=E7=AE=97=E6=
+=9C=BA=E8=A7=86=E8=A7=89=E7=9A=84=E5=8F=91=E5=B1=95=E5=8F=8A=E6=84=8F=E4=B9=
+=89=EF=BC=8C=E8=BF=90=E5=8A=A8=E7=9B=AE=E6=A0=87=E6=A3=80=E6=B5=8B=E5=9C=A8=
+=E8=AE=A1=E7=AE=97=E6=9C=BA=E8=A7=86=E8=A7=89=E4=B8=AD=E5=8D=A0=E6=8D=AE=E7=
+=9A=84=E5=9C=B0=E4=BD=8D=EF=BC=8C=E5=9B=BD=E5=86=85=E5=A4=96=E5=8F=91=E5=B1=
+=95=E5=89=8D=E6=99=AF=EF=BC=8C=E6=9C=AC=E6=96=87=E7=AE=97=E6=B3=95=E7=9A=84=
+=E6=94=B9=E8=BF=9B=E4=BB=A5=E5=8F=8A=E8=AE=BA=E6=96=87=E7=9A=84=E6=9E=B6=E6=
+=9E=84=E6=80=9D=E8=B7=AF=E3=80=82=E7=AC=AC=E4=BA=8C=E7=AB=A0=E4=BB=8B=E7=BB=
+=8D=E4=BA=86Vibe=E7=AE=97=E6=B3=95=E7=9A=84=E5=8E=9F=E5=9E=8B=EF=BC=8C=E5=
+=B9=B6=E7=BB=99=E5=87=BA=E6=B5=8B=E8=AF=95=E5=BD=B1=E5=83=8F=E5=9C=A8=E5=8E=
+=9FVibe=E7=AE=97=E6=B3=95=E4=B8=8B=E7=9A=84=E5=AE=9E=E9=AA=8C=E7=BB=93=E6=
+=9E=9C=EF=BC=8C=E5=9C=A8=E8=AF=A5=E7=AB=A0=E7=9A=84=E6=9C=80=E5=90=8E=EF=BC=
+=8C=E4=BC=9A=E6=A0=B9=E6=8D=AE=E5=AE=9E=E9=AA=8C=E7=BB=93=E6=9E=9C=E5=85=B7=
+=E4=BD=93=E5=88=86=E6=9E=90=E5=87=BA=E7=8E=B0=E7=9B=B8=E5=BA=94=E7=BB=93=E6=
+=9E=9C=E7=9A=84=E5=8E=9F=E5=9B=A0=E5=8F=8A=E5=85=B7=E4=BD=93=E6=94=B9=E8=BF=
+=9B=E6=96=B9=E6=B3=95=E3=80=82=E7=AC=AC=E4=B8=89=E7=AB=A0=E4=B8=BB=E8=A6=81=
+=E9=92=88=E5=AF=B9=E5=8E=9FVibe=E7=AE=97=E6=B3=95=E4=B8=AD=E5=87=BA=E7=8E=
+=B0=E7=9A=84=E9=AC=BC=E5=BD=B1=E7=8E=B0=E8=B1=A1=E6=8F=90=E5=87=BA=E5=9F=BA=
+=E4=BA=8E=E9=82=BB=E8=BF=91=E8=83=8C=E6=99=AF=E5=83=8F=E7=B4=A0=E7=9B=B4=E6=
+=96=B9=E5=9B=BE=E7=9A=84=E6=96=B9=E6=B3=95=E6=9D=A5=E6=8A=91=E5=88=B6=E7=94=
+=9A=E8=87=B3=E6=B6=88=E9=99=A4=E9=AC=BC=E5=BD=B1=E7=9A=84=E5=BD=B1=E5=93=8D=
+=E3=80=82=E7=AC=AC=E5=9B=9B=E7=AB=A0=E6=9C=80=E5=90=8E=E4=BD=9C=E4=B8=BA=E6=
+=80=BB=E7=BB=93=EF=BC=8C=E5=B0=86=E5=89=8D=E5=90=8E=E4=B8=A4=E7=A7=8D=E6=96=
+=B9=E6=B3=95=E4=BB=A5=E5=8F=8A=E5=8D=95=E7=BA=AF=E4=BD=BF=E7=94=A8=E5=B7=AE=
+=E5=88=86=E6=B3=95=E7=9A=84=E7=BB=93=E6=9E=9C=E8=BF=9B=E8=A1=8C=E5=AF=B9=E6=
+=AF=94=E6=8E=A2=E7=A9=B6=EF=BC=8C=E6=8F=90=E5=87=BA=E6=9C=AC=E6=96=87=E4=B8=
+=AD=E6=89=80=E6=98=BE=E7=8E=B0=E7=9A=84=E5=B1=80=E9=99=90=E6=80=A7=E5=8F=8A=
+=E5=AF=B9=E8=BF=90=E5=8A=A8=E7=9B=AE=E6=A0=87=E6=A3=80=E6=B5=8B=E6=8A=80=E6=
+=9C=AF=E7=9A=84=E6=9C=AA=E6=9D=A5=E5=B1=95=E6=9C=9B=E3=80=82</p>
+        <p>2.Vibe=E7=AE=97=E6=B3=95=E5=9F=BA=E7=A1=80</p>
+        <p>2.1 =E7=AE=97=E6=B3=95=E6=A6=82=E8=BF=B0</p>
+        <p>=E8=BF=90=E5=8A=A8=E7=89=A9=E4=BD=93=E6=A3=80=E6=B5=8B=E7=9A=84=
+=E4=B8=BB=E8=A6=81=E7=9B=AE=E6=A0=87=E6=98=AF=E6=89=BE=E5=87=BAROI=EF=BC=88=
+region of interest=EF=BC=89,=E7=A1=AE=E5=AE=9A=E5=85=B6=E4=BD=8D=E7=BD=AE=
+=E3=80=81=E5=A4=A7=E5=B0=8F=E4=BB=A5=E5=8F=8A=E9=A2=9C=E8=89=B2=E5=88=86=E5=
+=B8=83=E7=AD=89=E4=BF=A1=E6=81=AF=E3=80=82=E7=94=B1=E4=BA=8E=E5=90=84=E7=B1=
+=BB=E7=89=A9=E4=BD=93=E5=9C=A8=E4=B8=8D=E5=90=8C=E8=A7=92=E5=BA=A6=E4=B8=8B=
+=E5=8F=AF=E8=83=BD=E5=91=88=E7=8E=B0=E4=B8=8D=E5=90=8C=E7=9A=84=E5=BD=A2=E7=
+=8A=B6=EF=BC=8C=E5=A4=A7=E5=B0=8F=E7=94=9A=E8=87=B3=E9=A2=9C=E8=89=B2=EF=BC=
+=8C=E5=86=8D=E5=8A=A0=E4=B8=8A=E5=85=89=E7=BA=BF=E7=9A=84=E5=BD=B1=E5=93=8D=
+=EF=BC=8C=E8=BF=99=E4=BA=9B=E9=83=BD=E4=BD=BF=E5=BE=97=E7=9B=AE=E6=A0=87=E6=
+=A3=80=E6=B5=8B=E7=A7=B0=E4=B8=BA=E8=AE=A1=E7=AE=97=E6=9C=BA=E8=A7=86=E8=A7=
+=89=E9=A2=86=E5=9F=9F=E6=9C=80=E5=85=B7=E6=8C=91=E6=88=98=E6=80=A7=E7=9A=84=
+=E9=97=AE=E9=A2=98=E4=B9=8B=E4=B8=80=E3=80=82=E8=AE=A1=E7=AE=97=E6=9C=BA=E8=
+=A7=86=E8=A7=89=E5=AF=B9=E4=BA=8E=E5=9B=BE=E5=83=8F=E5=A4=84=E7=90=86=E7=9A=
+=84=E5=9B=9B=E5=A4=A7=E4=BB=BB=E5=8A=A1=E6=98=AF=EF=BC=9A=E5=88=86=E7=B1=BB=
+=EF=BC=88Classification=EF=BC=89=EF=BC=8C=E5=AE=9A=E4=BD=8D=EF=BC=88Locatio=
+n=EF=BC=89=EF=BC=8C=E6=A3=80=E6=B5=8B=EF=BC=88Detection=EF=BC=89=EF=BC=8C=
+=E5=88=86=E5=89=B2=EF=BC=88Segmentation=EF=BC=89=EF=BC=8C=E5=85=B6=E4=B8=AD=
+=E5=88=86=E5=89=B2=E6=98=AF=E6=9C=AC=E6=96=87=E7=9A=84=E9=87=8D=E7=82=B9=E3=
+=80=82</p>
+        <p>Vibe=E7=AE=97=E6=B3=95=E8=A2=AB=E7=AC=AC=E4=B8=80=E6=AC=A1=E6=8F=
+=90=E5=87=BA=E6=98=AF=E5=9C=A82011=E5=B9=B4=EF=BC=8C Olivier Barnich=E4=BB=
+=A5=E5=8F=8AMarc Van Droogen- broeck=E8=81=94=E5=90=88=E7=A0=94=E7=A9=B6=E5=
+=B9=B6=E5=85=AC=E5=B8=83=E4=BA=86=E8=BF=99=E4=B8=80=E7=AE=97=E6=B3=95=EF=BC=
+=8C=E5=9C=A8=E6=9C=80=E5=9F=BA=E6=9C=AC=E7=9A=84=E5=B8=A7=E5=B7=AE=E6=B3=95=
+=EF=BC=8C=E4=B9=9F=E5=B0=B1=E6=98=AF=E5=9B=BA=E5=AE=9A=E8=83=8C=E6=99=AF=E6=
+=A8=A1=E5=9E=8B=E7=9A=84=E5=9F=BA=E7=A1=80=E4=B8=8A=EF=BC=8CVibe=E7=AE=97=
+=E6=B3=95=E6=98=AF=E4=B8=80=E7=A7=8D=E9=80=9A=E8=BF=87=E5=AE=9E=E6=97=B6=E6=
+=9B=B4=E6=96=B0=E8=83=8C=E6=99=AF=E6=A8=A1=E5=9E=8B=E7=9A=84=E5=89=8D=E6=99=
+=AF=E6=A3=80=E6=B5=8B=E7=AE=97=E6=B3=95=E3=80=82ViBe=E4=BE=9D=E9=9D=A0=E9=
+=80=9A=E8=BF=87=E5=AF=B9=E8=83=8C=E6=99=AF=E5=BB=BA=E6=A8=A1=E4=BB=8E=E8=80=
+=8C=E5=88=86=E5=89=B2=E5=87=BA=E5=89=8D=E6=99=AF=E7=89=A9=E4=BD=93=E7=9A=84=
+=E6=96=B9=E6=B3=95=EF=BC=8C=E8=80=8C=E4=B8=94=E5=85=B6=E6=93=8D=E4=BD=9C=E9=
+=83=BD=E6=98=AF=E5=83=8F=E7=B4=A0=E7=AD=89=E7=BA=A7=E7=9A=84=EF=BC=8C=E4=B8=
+=8D=E9=9C=80=E8=A6=81=E8=AE=A4=E4=B8=BA=E6=9E=84=E9=80=A0=E4=B8=80=E4=BA=9B=
+=E7=BB=93=E6=9E=84=E3=80=82=E5=92=8C=E5=85=B6=E5=90=8C=E7=B1=BB=E5=9E=8B=E7=
+=AE=97=E6=B3=95=E7=9B=B8=E6=AF=94=EF=BC=8CVibe=E7=AE=97=E6=B3=95=E4=BD=BF=
+=E7=94=A8=E4=BA=86=E4=B8=8D=E5=90=8C=E7=9A=84=E8=83=8C=E6=99=AF=E6=A8=A1=E5=
+=9E=8B=E6=9B=B4=E6=96=B0=E7=AD=96=E7=95=A5=EF=BC=8C=E4=B8=BB=E8=A6=81=E4=BD=
+=93=E7=8E=B0=E5=9C=A8=E9=9A=8F=E6=9C=BA=E6=80=A7=E4=B8=8A=EF=BC=8C=E5=8D=B3=
+=E9=9A=8F=E6=9C=BA=E9=80=89=E6=8B=A9=E6=A0=B7=E6=9C=AC=E6=9D=A5=E6=9B=BF=E6=
+=8D=A2=E5=83=8F=E7=B4=A0=EF=BC=8C=E9=9A=8F=E6=9C=BA=E9=80=89=E6=8B=A9=E9=82=
+=BB=E5=9F=9F=E8=8C=83=E5=9B=B4=E5=86=85=E7=9A=84=E5=83=8F=E7=B4=A0=E8=BF=9B=
+=E8=A1=8C=E6=9B=B4=E6=96=B0=EF=BC=8C=E9=80=9A=E5=B8=B8=E4=BD=BF=E7=94=A88=
+=E9=82=BB=E5=9F=9F=E7=AD=89=E3=80=82=E5=AF=B9=E4=BA=8E=E9=98=B4=E5=BD=B1=E6=
+=88=96=E8=80=85=E9=AC=BC=E5=BD=B1=E6=9D=A5=E8=AF=B4=EF=BC=8C=E4=BB=96=E4=BB=
+=AC=E5=9C=A8=E6=9F=90=E7=A7=8D=E7=A8=8B=E5=BA=A6=E4=B8=8A=E6=98=AF=E4=B8=8D=
+=E7=A1=AE=E5=AE=9A=E7=9A=84=EF=BC=8C=E8=80=8CVibe=E7=AE=97=E6=B3=95=E7=9A=
+=84=E9=9A=8F=E5=8D=B3=E6=9B=B4=E6=96=B0=E7=AD=96=E7=95=A5=E5=8F=88=E5=8F=AF=
+=E4=BB=A5=E5=9C=A8=E6=9F=90=E7=A7=8D=E7=A8=8B=E5=BA=A6=E4=B8=8A=E6=9D=A5=E6=
+=81=B0=E5=A5=BD=E6=A8=A1=E6=8B=9F=E4=BB=96=E4=BB=AC=E7=9A=84=E8=BF=99=E7=A7=
+=8D=E4=B8=8D=E7=A1=AE=E5=AE=9A=E6=80=A7=EF=BC=8C=E9=99=8D=E4=BD=8E=E4=BA=86=
+=E4=BA=BA=E5=B7=A5=E5=BB=BA=E6=A8=A1=E7=9A=84=E5=A4=8D=E6=9D=82=E5=BA=A6=EF=
+=BC=8C=E5=8F=88=E5=8F=AF=E4=BB=A5=E6=8F=90=E9=AB=98=E5=BB=BA=E6=A8=A1=E6=95=
+=88=E7=8E=87=E3=80=82</p>
+        <p>2.2=E7=AE=97=E6=B3=95=E6=A8=A1=E5=9E=8B</p>
+        <p>=E6=88=91=E4=BB=AC=E5=85=88=E5=81=87=E8=AE=BE=EF=BC=8C=E6=AF=8F=
+=E4=B8=AA=E5=83=8F=E7=B4=A0=E5=8F=8A=E5=85=B6=E9=82=BB=E5=9F=9F=E5=83=8F=E7=
+=B4=A0=E5=80=BC=E6=9C=89=E7=9D=80=E7=9B=B8=E4=BC=BC=E7=9A=84=E5=88=86=E5=B8=
+=83=E3=80=82=E5=9F=BA=E4=BA=8E=E8=BF=99=E7=A7=8D=E5=81=87=E8=AE=BE=EF=BC=8C=
+=E6=AF=8F=E4=B8=80=E4=B8=AA=E5=83=8F=E7=B4=A0=E6=A8=A1=E5=9E=8B=E9=83=BD=E5=
+=8F=AF=E4=BB=A5=E7=94=A8=E5=85=B6=E9=82=BB=E5=9F=9F=E4=B8=AD=E7=9A=84=E5=83=
+=8F=E7=B4=A0=E6=9D=A5=E8=A1=A8=E7=A4=BA=E3=80=82=E3=80=82=E5=BD=93=E8=BE=93=
+=E5=85=A5=E7=AC=AC=E4=B8=80=E5=B8=A7=E5=9B=BE</p>
+        <p>=E3=80=82</p>
+        <p>=E7=AC=A6=E5=90=88=E6=9D=A1=E4=BB=B6N=E6=AC=A1=E4=B9=8B=E5=90=8E=
+=EF=BC=8C=E4=B8=BA=E8=83=8C=E6=99=AF=E5=83=8F=E7=B4=A0=EF=BC=8C=E5=90=A6=E5=
+=88=99=E5=B0=B1=E8=A7=86=E5=85=B6=E4=B8=BA=E5=89=8D=E6=99=AF=E5=83=8F=E7=B4=
+=A0=EF=BC=8C=E7=B4=A7=E6=8E=A5=E7=9D=80=E5=B0=86=E4=BB=96=E4=BB=AC=E6=9B=B4=
+=E6=96=B0=E5=88=B0=E8=83=8C=E6=99=AF=E6=A8=A1=E5=9E=8B=E4=B8=AD=E3=80=82</p=
+>
+        <p>=E3=80=82</p>
+        <p>=E5=BD=93=E6=88=91=E4=BB=AC=E5=BE=97=E5=88=B0=E6=96=B0=E7=9A=84=
+=E4=B8=80=E5=B8=A7=E5=9B=BE=E5=83=8F=E6=97=B6=EF=BC=8C=E5=88=99=E9=9C=80=E8=
+=A6=81=E8=A2=AB=E6=9B=B4=E6=96=B0=E3=80=82</p>
+        <p>=E7=94=A8=E7=9A=84=E6=9D=A5=E6=9B=BF=E6=8D=A2=E6=8E=89=EF=BC=8C<=
+/p>
+        <p>=E5=8F=AF=E4=BB=A5=E5=8E=BB=E6=B5=8B=E7=9B=AE=E6=A0=87=E6=9B=B4=
+=E5=8A=A0=E5=87=86=E7=A1=AE=E3=80=82</p>
+        <p>2.3=E5=AE=9E=E9=AA=8C=E7=BB=93=E6=9E=9C</p>
+        <p>=E5=A6=82=E5=9B=BE=EF=BC=8C=E5=B7=A6=E8=BE=B9=E4=B8=80=E5=88=97=
+=E4=B8=BA=E6=9C=AA=E7=BB=8F=E8=BF=87Vibe=E7=AE=97=E6=B3=95=E8=BF=9B=E8=A1=
+=8C=E8=83=8C=E6=99=AF=E6=A8=A1=E5=9E=8B=E6=9B=B4=E6=96=B0=E5=AF=B9=E5=8E=9F=
+=E8=A7=86=E9=A2=91=E7=AC=AC101=E5=B8=A7=E5=88=B0104=E5=B8=A7=E7=9A=84=E5=A4=
+=84=E7=90=86=E7=BB=93=E6=9E=9C=EF=BC=8C=E5=8F=B3=E8=BE=B9=E4=B8=80=E5=88=97=
+=E4=B8=BA=E7=BB=8F=E8=BF=87=E8=83=8C=E6=99=AF=E6=A8=A1=E5=9E=8B=E6=9B=B4=E6=
+=96=B0=E7=9A=84Vibe=E7=AE=97=E6=B3=95=E5=AF=B9=E5=8E=9F=E8=A7=86=E9=A2=91=
+=E7=AC=AC101=E5=B8=A7=E5=88=B0104=E5=B8=A7=E7=9A=84=E5=A4=84=E7=90=86=E7=BB=
+=93=E6=9E=9C=EF=BC=8C=E5=9B=BE=E4=B8=AD=E7=94=A8=E7=BA=A2=E8=89=B2=E5=9C=86=
+=E5=9C=88=E6=A0=87=E6=B3=A8=E7=9A=84=E5=8D=B3=E4=B8=BA=E9=AC=BC=E5=BD=B1=EF=
+=BC=8C=E5=8F=AF=E4=BB=A5=E7=9C=8B=E5=87=BA=EF=BC=8C=E7=94=B1=E4=BA=8E=E6=B5=
+=8B=E8=AF=95=E8=A7=86=E9=A2=91=E5=9C=A8=E5=89=8D=E9=9D=A2=E7=9A=84=E9=83=A8=
+=E5=88=86=E8=83=8C=E6=99=AF=E5=8F=98=E5=8C=96=E4=B8=8D=E5=A4=A7=EF=BC=8C=E6=
+=89=80=E4=BB=A5=E6=B2=A1=E6=9C=89=E4=BD=BF=E7=94=A8Vibe=E7=AE=97=E6=B3=95=
+=E6=9B=B4=E6=96=B0=E8=83=8C=E6=99=AF=E6=A8=A1=E5=9E=8B=E7=9A=84=E5=88=86=E5=
+=89=B2=E6=95=88=E6=9E=9C=E5=9C=A8=E5=89=8D=E5=8D=8A=E6=AE=B5=E5=92=8C=E6=9B=
+=B4=E6=96=B0=E5=90=8E=E7=9A=84=E6=95=88=E6=9E=9C=E7=9B=B8=E5=B7=AE=E4=B8=8D=
+=E5=A4=A7=E3=80=82</p>
+        <p>=E4=BD=86=E4=BB=8E303=E5=B8=A7=E4=B9=8B=E5=90=8E=EF=BC=8C=E5=88=
+=86=E5=89=B2=E7=9A=84=E7=BB=93=E6=9E=9C=E4=B8=AD=E7=9A=84=E8=83=8C=E6=99=AF=
+=E5=99=AA=E5=A3=B0=E7=8C=9B=E5=A2=9E=EF=BC=8C=E8=80=8C=E4=B8=94=E6=8C=81=E7=
+=BB=AD=E5=A2=9E=E9=95=BF=EF=BC=8C=E6=97=A0=E6=B3=95=E6=8E=A7=E5=88=B6=E3=80=
+=82=E4=B8=8B=E5=9B=BE=E5=88=86=E5=88=AB=E4=B8=BA=E7=AC=AC303=E5=B8=A7=E5=8D=
+=B3=E7=AC=AC367=E5=B8=A7=E7=9A=84=E5=88=86=E5=89=B2=E7=BB=93=E6=9E=9C=EF=BC=
+=8C=E5=8F=AF=E4=BB=A5=E7=9C=8B=E5=87=BA=E7=94=B1=E4=BA=8E=E6=97=A0=E6=B3=95=
+=E6=9B=B4=E6=96=B0=E8=83=8C=E6=99=AF=E6=A8=A1=E5=9E=8B=EF=BC=8C=E6=9C=80=E5=
+=90=8E=E5=88=86=E5=89=B2=E7=BB=93=E6=9E=9C=E5=8F=AA=E4=BC=9A=E8=A2=AB=E6=B9=
+=AE=E7=81=AD=E5=9C=A8=E5=98=88=E6=9D=82=E7=9A=84=E8=83=8C=E6=99=AF=E4=B9=8B=
+=E4=B8=AD=E3=80=82</p>
+        <p>=E7=94=B1=E4=BA=8E=E8=83=8C=E6=99=AF=E7=9B=B8=E5=AF=B9=E6=AF=94=
+=E8=BE=83=E5=A4=8D=E6=9D=82=E5=A4=9A=E5=8F=98=EF=BC=8C=E5=8F=AF=E4=BB=A5=E7=
+=9C=8B=E5=88=B0=E5=A6=82=E6=9E=9C=E5=AF=B9=E8=83=8C=E6=99=AF=E6=A8=A1=E5=9E=
+=8B=E6=B2=A1=E6=9C=89=E4=B8=80=E5=AE=9A=E7=9A=84=E6=9B=B4=E6=96=B0=E7=AD=96=
+=E7=95=A5=EF=BC=8C=E5=88=86=E5=89=B2=E7=BB=93=E6=9E=9C=E7=94=B1=E4=BA=8E=E8=
+=87=AA=E8=BA=AB=E6=97=A0=E6=B3=95=E5=8F=8A=E6=97=B6=E6=94=B9=E6=AD=A3=E5=BE=
+=88=E5=AE=B9=E6=98=93=E5=8F=97=E5=88=B0=E5=B9=B2=E6=89=B0=E3=80=82=E8=80=8C=
+=E7=94=B1=E4=BA=8EVibe=E9=87=87=E7=94=A8=E9=9A=8F=E6=9C=BA=E7=9A=84=E6=9B=
+=B4=E6=96=B0=E7=AD=96=E7=95=A5=EF=BC=8C=E6=89=80=E4=BB=A5=E5=BD=93=E5=87=BA=
+=E7=8E=B0=E5=B9=B2=E6=89=B0=E6=97=B6=EF=BC=8C=E7=AE=97=E6=B3=95=E4=BC=9A=E8=
+=87=AA=E9=80=82=E5=BA=94=E6=94=B9=E5=8F=98=E8=83=8C=E6=99=AF=E6=A8=A1=E5=9E=
+=8B=E6=9D=A5=E6=B6=88=E9=99=A4=E5=B9=B2=E6=89=B0=EF=BC=8C=E5=8F=AF=E4=BB=A5=
+=E7=9C=8B=E5=88=B0Vibe=E7=AE=97=E6=B3=95=E4=B8=8B=E7=9A=84101=E5=B8=A7=E5=
+=88=B0104=E5=B8=A7=E4=B8=8D=E5=8D=95=E9=AC=BC=E5=BD=B1=E5=A4=A7=E5=B0=8F=E5=
+=8F=8A=E5=BD=A2=E6=80=81=E4=BC=9A=E6=94=B6=E6=95=9B=E5=BE=88=E5=A4=9A=EF=BC=
+=8C=E8=80=8C=E4=B8=94=E6=95=B4=E4=BD=93=E6=9C=89=E5=87=8F=E5=B0=8F=E7=9A=84=
+=E8=B6=8B=E5=8A=BF=EF=BC=8C=E5=8F=AF=E4=BB=A5=E6=98=8E=E6=98=BE=E7=9C=8B=E5=
+=88=B0=E7=AE=97=E6=B3=95=E5=AF=B9=E9=AC=BC=E5=BD=B1=E5=92=8C=E9=98=B4=E5=BD=
+=B1=E7=9A=84=E6=8A=91=E5=88=B6=E6=95=88=E6=9E=9C=E3=80=82</p>
+        <p>3.=E5=9F=BA=E4=BA=8E=E7=9B=B4=E6=96=B9=E5=9B=BE=E6=94=B9=E8=BF=
+=9B=E7=9A=84Vibe=E7=AE=97=E6=B3=95</p>
+        <p>3.1=E7=AE=97=E6=B3=95=E6=A6=82=E8=BF=B0</p>
+        <p>=E9=AC=BC=E5=BD=B1=E5=92=8C=E9=98=B4=E5=BD=B1=E6=98=AF=E5=9B=BE=
+=E5=83=8F=E4=B8=AD=E4=B8=8D=E5=8F=AF=E9=81=BF=E5=85=8D=E7=9A=84=E4=B8=80=E9=
+=83=A8=E5=88=86=EF=BC=8C=E4=BD=86Vibe=E5=8E=9F=E7=AE=97=E6=B3=95=E5=BE=88=
+=E9=9A=BE=E5=BF=AB=E9=80=9F=E6=B6=88=E9=99=A4=E8=BF=99=E4=BA=9B=E5=BD=B1=E5=
+=93=8D=EF=BC=8C=E5=AE=B9=E6=98=93=E5=B8=A6=E6=9D=A5=E4=B8=80=E4=BA=9B=E6=84=
+=8F=E5=A4=96=E7=9A=84=E7=BB=93=E6=9E=9C=E3=80=82=E6=9C=AC=E6=96=87=E5=88=A9=
+=E7=94=A8=E9=AC=BC=E5=BD=B1=E5=92=8C=E9=82=BB=E5=9F=9F=E8=83=8C=E6=99=AF=E5=
+=83=8F=E7=B4=A0=E7=9A=84=E7=9B=B4=E6=96=B9=E5=9B=BE=E5=88=86=E5=B8=83=E6=9B=
+=B4=E7=9B=B8=E8=BF=91=EF=BC=8C=E8=80=8C=E4=B8=8E=E5=89=8D=E6=99=AF=E8=BF=90=
+=E5=8A=A8=E7=9B=AE=E6=A0=87=E5=83=8F=E7=B4=A0=E7=9A=84=E7=9B=B4=E6=96=B9=E5=
+=9B=BE=E5=88=86=E5=B8=83=E5=B7=AE=E5=BC=82=E6=9B=B4=E5=A4=A7=E8=BF=99=E4=B8=
+=80=E7=89=B9=E6=80=A7=E6=9D=A5=E6=A3=80=E6=B5=8B=E9=AC=BC=E5=BD=B1=E5=8F=8A=
+=E9=98=B4=E5=BD=B1=E3=80=82</p>
+        <p>3.2=E7=AE=97=E6=B3=95=E6=A8=A1=E5=9E=8B</p>
+        <p>=EF=BC=8C=E7=9B=AE=E6=A0=87=E5=8C=BA=E5=9F=9F=EF=BC=8C=EF=BC=8C=
+=E5=BA=94=E7=9A=84=E7=A8=8B=EF=BC=8CRF</p>
+        <p>=E5=A6=82=E6=9E=9C=E5=85=B6=E4=B8=AD=E7=9B=B8=E5=85=B3=E7=B3=BB=
+=E6=95=B0=E8=AE=A1=E7=AE=97=E5=BE=97=E5=88=B0=E8=9E=8D=E5=85=A5=E8=83=8C=E6=
+=99=AF=E6=A8=A1=E5=9E=8B=E3=80=82</p>
+        <p>3.3 =E4=BB=A3=E7=A0=81=E5=AE=9E=E7=8E=B0</p>
+        <p>=E6=9C=AC=E6=96=87=E4=BB=A3=E7=A0=81=E5=9D=87=E7=94=B1matlab=E7=
+=BC=96=E5=86=99=EF=BC=8C=E8=BD=AF=E4=BB=B6=E7=89=88=E6=9C=AC=E4=B8=BA16.0 a=
+=EF=BC=8C=E5=85=B7=E4=BD=93=E4=BB=A3=E7=A0=81=E8=AF=A6=E8=A7=81=E9=99=84=E5=
+=BD=95A=E3=80=82</p>
+        <p>=E5=9C=A8=E5=88=86=E5=89=B2=E5=AE=8C=E6=88=90=E5=90=8E=EF=BC=8C=
+=E5=B0=86=E5=88=86=E5=89=B2=E7=BB=93=E6=9E=9C=E8=BD=AC=E6=8D=A2=E4=B8=BA8=
+=E4=BD=8D=E7=9A=84binary=E5=9B=BE=E5=83=8F=EF=BC=8C=E7=BB=93=E6=9E=9C=E4=B8=
+=AD=E5=B8=A6=E6=9C=89=E4=B8=80=E4=BA=9B=E5=AD=94=E6=B4=9E=E7=BB=93=E6=9E=84=
+=EF=BC=8C=E5=8F=AF=E4=BB=A5=E8=BF=9B=E4=B8=80=E6=AD=A5=E9=80=9A=E8=BF=87=E5=
+=BD=A2=E6=80=81=E5=AD=A6=E6=93=8D=E4=BD=9C=EF=BC=88=E8=86=A8=E8=83=80=EF=BC=
+=8C=E8=85=90=E8=9A=80=E7=AD=89=EF=BC=89=E6=9D=A5=E5=AF=B9=E5=85=B6=E8=BF=9B=
+=E8=A1=8C=E4=BF=AE=E6=AD=A3=EF=BC=8C=E4=BD=86=E4=B8=BA=E4=BA=86=E6=9B=B4=E7=
+=9B=B4=E8=A7=82=E7=9A=84=E6=9F=A5=E7=9C=8B=E6=94=B9=E8=BF=9B=E5=90=8E=E7=9A=
+=84Vibe=E7=AE=97=E6=B3=95=E7=9A=84=E5=A4=84=E7=90=86=E6=95=88=E6=9E=9C=EF=
+=BC=8C=E6=B2=A1=E6=9C=89=E5=AF=B9=E5=88=86=E5=89=B2=E7=BB=93=E6=9E=9C=E8=BF=
+=9B=E8=A1=8C=E8=BF=9B=E4=B8=80=E6=AD=A5=E7=9A=84=E4=BF=AE=E6=AD=A3=E3=80=82=
+</p>
+        <p>=E4=B8=BA=E7=BB=9F=E8=AE=A1=E5=90=84=E8=BF=9E=E9=80=9A=E5=9F=9F=
+=E7=9A=84=E9=A2=9C=E8=89=B2=E7=9B=B4=E6=96=B9=E5=9B=BE=E5=88=86=E5=B8=83=EF=
+=BC=8C=E4=BD=BF=E7=94=A8=E4=BA=86matlab=E4=B8=AD=E8=87=AA=E5=B8=A6=E7=9A=84=
+=E5=87=BD=E6=95=B0bwboundaries=E6=9D=A5=E6=B1=82=E5=87=BA=E5=88=86=E5=89=B2=
+=E7=BB=93=E6=9E=9C=E4=B8=AD=E5=AD=98=E5=9C=A8=E7=9A=84=E6=89=80=E6=9C=89=E8=
+=BF=9E=E9=80=9A=E5=9F=9F=EF=BC=88=E4=B8=8D=E5=8C=85=E6=8B=AC=E5=AD=94=E6=B4=
+=9E=EF=BC=89=EF=BC=8C=E7=84=B6=E5=90=8E=E5=88=86=E5=88=AB=E5=AF=B9=E6=AF=8F=
+=E4=B8=AA=E8=BF=9E=E9=80=9A=E5=9F=9F=E5=8F=8A=E5=85=B6=E8=83=8C=E6=99=AF=E9=
+=82=BB=E5=9F=9F=E6=B1=82=E5=85=B6=E9=A2=9C=E8=89=B2=E7=9B=B4=E6=96=B9=E5=9B=
+=BE=E5=88=86=E5=B8=83=EF=BC=8C=E7=84=B6=E5=90=8E=E6=B1=82=E5=87=BA=E3=80=82=
+</p>
+        <p>=E5=9C=A8=E5=85=B7=E4=BD=93=E5=AE=9E=E7=8E=B0=E8=BF=87=E7=A8=8B=
+=E4=B8=AD=EF=BC=8C=E7=94=B1=E4=B8=A4=E4=B8=AA=E7=9F=A9=E9=98=B5=E7=9B=B8=E5=
+=85=B3=E7=B3=BB=E6=95=B0=E7=9A=84=E5=80=92=E6=95=B0=E5=86=B3=E5=AE=9A=EF=BC=
+=8C=E5=8D=B3=E7=9B=B8=E5=85=B3=E7=B3=BB=E6=95=B0=E8=B6=8A=E5=A4=A7=EF=BC=8C=
+=E4=B8=A4=E4=B8=AA=E9=A2=9C=E8=89=B2=E7=9B=B4=E6=96=B9=E5=9B=BE=E7=9A=84=E8=
+=B7=9D=E7=A6=BB=E8=B6=8A=E5=B0=8F=EF=BC=8C=E9=82=A3=E4=B9=88=E6=88=91=E4=BB=
+=AC=E8=AE=BE=E5=AE=9A=E4=B8=80=E4=B8=AA=E9=98=88=E5=80=BC=EF=BC=8C=E5=A6=82=
+=E6=9E=9C=E6=9F=90=E4=B8=80=E5=9D=97=E5=8C=BA=E5=9F=9F=EF=BC=88=E8=BF=9E=E9=
+=80=9A=E5=9F=9F=EF=BC=89=E7=9A=84=E5=89=8D=E6=99=AF=E4=B8=8E=E9=9A=8F=E6=9C=
+=BA=E8=83=8C=E6=99=AF=E5=8C=BA=E5=9F=9F=E7=9A=84=E7=9B=B8=E5=85=B3=E7=B3=BB=
+=E6=95=B0=E5=A4=A7=E4=BA=8E=E8=BF=99=E4=B8=AA=E9=98=88=E5=80=BC=EF=BC=8C=E5=
+=8D=B3=E5=8F=AF=E5=B0=86=E8=BF=99=E5=9D=97=E5=8C=BA=E5=9F=9F=E6=9B=B4=E6=96=
+=B0=E5=88=B0=E8=83=8C=E6=99=AF=E6=A8=A1=E5=9E=8B=E4=B9=8B=E4=B8=AD=E3=80=82=
+</p>
+        <p>3.4=E5=AE=9E=E9=AA=8C=E7=BB=93=E6=9E=9C</p>
+        <p>=E5=9C=A8Vibe=E7=AE=97=E6=B3=95=E5=8F=82=E6=95=B0=E4=B8=80=E8=87=
+=B4=E7=9A=84=E6=83=85=E5=86=B5=E4=B8=8B=EF=BC=8C=E5=8F=AF=E4=BB=A5=E6=98=8E=
+=E6=98=BE=E8=A7=82=E5=AF=9F=E5=88=B0=EF=BC=8C=E5=88=A9=E7=94=A8=E9=82=BB=E5=
+=9F=9F=E7=9B=B4=E6=96=B9=E5=9B=BE=E7=9A=84=E7=BB=93=E6=9E=9C=E4=B8=AD=EF=BC=
+=8C=E9=AC=BC=E5=BD=B1=E6=88=96=E9=98=B4=E5=BD=B1=E6=B6=88=E9=80=80=E7=9A=84=
+=E6=9B=B4=E5=BF=AB=EF=BC=8C=E5=85=B6=E5=BD=B1=E5=93=8D=E6=9B=B4=E5=B0=8F=E3=
+=80=82=E5=A6=82=E5=9B=BE=EF=BC=8C=E5=B7=A6=E8=BE=B9=E4=B8=80=E5=88=97=E4=B8=
+=BA=E5=8E=9FVibe=E7=AE=97=E6=B3=95=E5=AF=B9=E5=8E=9F=E8=A7=86=E9=A2=91=E7=
+=AC=AC101=E5=B8=A7=E5=88=B0104=E5=B8=A7=E7=9A=84=E5=A4=84=E7=90=86=E7=BB=93=
+=E6=9E=9C=EF=BC=8C=E5=8F=B3=E8=BE=B9=E4=B8=80=E5=88=97=E4=B8=BA=E5=9F=BA=E4=
+=BA=8E=E7=9B=B4=E6=96=B9=E5=9B=BE=E5=88=86=E5=B8=83=E5=AF=B9=E6=AF=94=E7=9A=
+=84Vibe=E7=AE=97=E6=B3=95=E5=AF=B9=E5=8E=9F=E8=A7=86=E9=A2=91=E7=AC=AC101=
+=E5=B8=A7=E5=88=B0104=E5=B8=A7=E7=9A=84=E5=A4=84=E7=90=86=E7=BB=93=E6=9E=9C=
+=EF=BC=8C=E5=9B=BE=E4=B8=AD=E7=94=A8=E7=BA=A2=E8=89=B2=E5=9C=86=E5=9C=88=E6=
+=A0=87=E6=B3=A8=E7=9A=84=E5=8D=B3=E4=B8=BA=E9=AC=BC=E5=BD=B1=EF=BC=8C=E5=8F=
+=AF=E4=BB=A5=E6=98=8E=E6=98=BE=E7=9C=8B=E5=88=B0=EF=BC=8C=E7=AC=AC101=E5=B8=
+=A7=E4=B8=BA=E5=87=BA=E7=8E=B0=E9=AC=BC=E5=BD=B1=E7=9A=84=E7=AC=AC=E4=B8=80=
+=E5=B8=A7=EF=BC=8C=E4=B8=A4=E7=A7=8D=E6=96=B9=E6=B3=95=E7=9A=84=E5=A4=84=E7=
+=90=86=E7=BB=93=E6=9E=9C=E5=8F=AA=E6=9B=B4=E6=96=B0=E5=88=B0=E4=BA=86=E8=83=
+=8C=E6=99=AF=E6=A8=A1=E5=9E=8B=E4=B8=8A=EF=BC=8C=E6=B2=A1=E6=9C=89=E4=BB=80=
+=E4=B9=88=E5=A4=A7=E7=9A=84=E5=B7=AE=E5=88=AB=EF=BC=8C=E8=80=8C=E7=AC=AC102=
+=E5=B8=A7=E9=87=8C=EF=BC=8C=E6=94=B9=E8=BF=9B=E5=90=8E=E7=9A=84=E7=AE=97=E6=
+=B3=95=E5=92=8C=E5=8E=9F=E7=AE=97=E6=B3=95=E7=9B=B8=E6=AF=94=E6=97=A0=E8=AE=
+=BA=E4=BB=8E=E5=A4=A7=E5=B0=8F=E8=BF=98=E6=98=AF=E5=BD=A2=E6=80=81=E4=B8=8A=
+=E9=83=BD=E6=98=8E=E6=98=BE=E6=8A=91=E5=88=B6=E4=BA=86=E9=AC=BC=E5=BD=B1=EF=
+=BC=8C=E7=AC=AC=E4=BA=8C=E6=AC=A1=E6=9B=B4=E6=96=B0=E4=B9=8B=E5=90=8E=EF=BC=
+=8C=E6=94=B9=E8=BF=9B=E5=90=8E=E7=9A=84=E7=AE=97=E6=B3=95=E5=AE=8C=E5=85=A8=
+=E6=B6=88=E9=99=A4=E4=BA=86=E9=AC=BC=E5=BD=B1=EF=BC=8C=E8=80=8C=E5=8E=9F=E7=
+=AE=97=E6=B3=95=E4=BB=8D=E7=84=B6=E9=9C=80=E8=A6=81=E4=B8=A4=E5=B8=A7=E6=89=
+=8D=E5=8F=AF=E4=BB=A5=E8=BE=BE=E5=88=B0=E5=90=8C=E6=A0=B7=E6=95=88=E6=9E=9C=
+=EF=BC=8C=E5=8D=B3=E6=95=88=E7=8E=87=E4=B8=8A=E6=8F=90=E9=AB=98=E4=BA=8650%=
+=E4=BB=A5=E4=B8=8A=E3=80=82</p>
+        <p>=E5=85=B6=E5=AE=9E=E5=AF=B9=E4=BA=8E=E8=BF=90=E5=8A=A8=E7=9B=AE=
+=E6=A0=87=E7=9A=84=E6=A3=80=E6=B5=8B=E6=95=88=E6=9E=9C=E6=9D=A5=E8=AF=B4=EF=
+=BC=8C=E4=B9=9F=E6=98=AF=E6=9C=89=E4=B8=80=E5=AE=9A=E7=9A=84=E4=BC=98=E5=8C=
+=96=E6=95=88=E6=9E=9C=EF=BC=8C=E5=8F=AF=E4=BB=A5=E7=9C=8B=E5=88=B0=E7=89=A9=
+=E4=BD=93=E5=91=A8=E8=BE=B9=E7=9A=84=E6=AF=9B=E5=88=BA=E5=B0=91=E4=BA=86=E5=
+=BE=88=E5=A4=9A=EF=BC=8C=E5=85=B6=E5=AE=9E=E9=82=A3=E4=BA=9B=E4=B9=9F=E9=83=
+=BD=E6=98=AF=E6=B1=BD=E8=BD=A6=E8=BF=90=E5=8A=A8=E6=97=B6=E7=9A=84=E6=AE=8B=
+=E5=BD=B1=E6=88=96=E9=98=B4=E5=BD=B1=EF=BC=8C=E5=8E=BB=E9=99=A4=E9=82=A3=E4=
+=BA=9B=E8=BF=9E=E9=80=9A=E5=9F=9F=E4=B9=8B=E5=90=8E=EF=BC=8C=E6=95=B4=E4=B8=
+=AA=E5=88=86=E5=89=B2=E6=95=88=E6=9E=9C=E4=B9=9F=E5=B9=B3=E6=BB=91=E4=BA=86=
+=E5=BE=88=E5=A4=9A=E3=80=82</p>
+        <p>=E6=80=BB=E7=BB=93</p>
+        <p>=E9=9A=8F=E7=9D=80=E8=AE=A1=E7=AE=97=E6=9C=BA=E7=A7=91=E5=AD=A6=
+=E6=8A=80=E6=9C=AF=E7=9A=84=E6=97=A5=E7=9B=8A=E5=8F=91=E5=B1=95=EF=BC=8C=E6=
+=95=B0=E5=AD=97=E5=9B=BE=E5=83=8F=E5=A4=84=E7=90=86=E4=BB=A5=E5=8F=8A=E6=9C=
+=BA=E5=99=A8=E8=A7=86=E8=A7=89=E4=B9=9F=E9=9A=8F=E4=B9=8B=E8=93=AC=E5=8B=83=
+=E5=8F=91=E5=B1=95=EF=BC=8C=E5=85=B6=E9=9C=80=E6=B1=82=E4=B9=9F=E6=97=A5=E7=
+=9B=8A=E6=89=A9=E5=BC=A0=EF=BC=8C=E8=80=8C=E5=AF=B9=E8=BF=90=E5=8A=A8=E7=9B=
+=AE=E6=A0=87=E7=9A=84=E6=A3=80=E6=B5=8B=E6=9B=B4=E6=98=AF=E5=8F=98=E5=BE=97=
+=E5=B0=A4=E4=B8=BA=E9=87=8D=E8=A6=81=E3=80=82=E7=94=B1=E4=BA=8E=E6=97=A5=E5=
+=85=89=E3=80=81=E7=81=AF=E5=85=89=E3=80=81=E6=8B=8D=E6=91=84=E8=A7=92=E5=BA=
+=A6=E7=AD=89=E5=9B=A0=E7=B4=A0=E7=9A=84=E5=BD=B1=E5=93=8D=EF=BC=8C=E5=AF=B9=
+=E8=BF=90=E5=8A=A8=E7=89=A9=E4=BD=93=E7=9A=84=E6=A3=80=E6=B5=8B=E5=8F=98=E5=
+=BE=97=E5=9B=B0=E9=9A=BE=EF=BC=8C=E8=80=8C=E6=8F=90=E5=87=BAVibe=E7=AD=89=
+=E5=9F=BA=E4=BA=8E=E8=83=8C=E6=99=AF=E6=A8=A1=E5=9E=8B=E6=9B=B4=E6=96=B0=E7=
+=9A=84=E7=AE=97=E6=B3=95=EF=BC=8C=E9=99=8D=E4=BD=8E=E4=BA=86=E8=B0=83=E5=8F=
+=82=E7=9A=84=E6=97=B6=E9=97=B4=E6=88=90=E6=9C=AC=EF=BC=8C=E5=8F=AF=E4=BB=A5=
+=E4=BD=BF=E6=A8=A1=E5=9E=8B=E8=87=AA=E9=80=82=E5=BA=94=E3=80=82</p>
+        <p>=E4=BD=86=E7=94=B1=E4=BA=8E=E9=AC=BC=E5=BD=B1=E5=92=8C=E9=98=B4=
+=E5=BD=B1=E7=9A=84=E5=BD=B1=E5=93=8D=EF=BC=8C=E5=8E=9FVibe=E7=AE=97=E6=B3=
+=95=E5=AF=B9=E5=85=B6=E7=9A=84=E6=B6=88=E9=99=A4=E9=80=9F=E5=BA=A6=E9=9D=9E=
+=E5=B8=B8=E7=BC=93=E6=85=A2=EF=BC=8C=E5=8F=AF=E4=BB=A5=E8=B0=83=E6=95=B4=E6=
+=9B=B4=E6=96=B0=E9=80=9F=E7=8E=87=E6=9D=A5=E6=94=B9=E5=96=84=E8=BF=99=E4=B8=
+=80=E7=8E=B0=E8=B1=A1=EF=BC=8C=E4=BD=86=E8=BF=99=E6=A0=B7=E5=8F=88=E4=BC=9A=
+=E5=B8=A6=E6=9D=A5=E6=96=B0=E7=9A=84=E9=97=AE=E9=A2=98=EF=BC=8C=E6=89=80=E4=
+=BB=A5=E6=9C=AC=E6=96=87=E6=8F=90=E5=87=BA=E7=9A=84=E5=9F=BA=E4=BA=8E=E9=82=
+=BB=E5=9F=9F=E7=9B=B4=E6=96=B9=E5=9B=BE=E7=9A=84=E9=AC=BC=E5=BD=B1=E5=8E=BB=
+=E9=99=A4=E7=AE=97=E6=B3=95=E5=9C=A8=E6=9F=90=E7=A7=8D=E7=A8=8B=E5=BA=A6=E4=
+=B8=8A=E5=BE=88=E5=A5=BD=E7=9A=84=E8=A7=A3=E5=86=B3=E4=BA=86=E8=BF=99=E4=B8=
+=80=E9=97=AE=E9=A2=98=EF=BC=8C=E5=8F=AF=E4=BB=A5=E7=9C=8B=E5=87=BA=E4=BB=96=
+=E6=9E=81=E5=A4=A7=E7=9A=84=E5=89=8A=E5=BC=B1=E4=BA=86=E9=AC=BC=E5=BD=B1=E5=
+=92=8C=E9=98=B4=E5=BD=B1=E5=AF=B9=E5=88=86=E5=89=B2=E7=9A=84=E5=BD=B1=E5=93=
+=8D=E3=80=82</p>
+        <p>=E6=9C=AC=E7=AE=97=E6=B3=95=E4=BA=A6=E6=9C=89=E5=BE=88=E5=A4=9A=
+=E4=B8=8D=E8=B6=B3=E4=B9=8B=E5=A4=84=E3=80=82=E5=85=B6=E6=97=B6=E9=97=B4=E5=
+=A4=8D=E6=9D=82=E5=BA=A6=E5=A2=9E=E5=8A=A0=EF=BC=8C=E5=9C=A8=E4=B8=8D=E5=AF=
+=B9=E5=85=B6=E6=95=B0=E5=AD=A6=E6=A8=A1=E5=9E=8B=E8=BF=9B=E4=B8=80=E6=AD=A5=
+=E4=BC=98=E5=8C=96=E7=9A=84=E5=89=8D=E6=8F=90=E4=B8=8B=EF=BC=8C=E6=97=B6=E9=
+=97=B4=E5=9F=BA=E6=9C=AC=E4=B8=8A=E4=B8=BA=E5=8E=9F=E6=9D=A5=E7=9A=841.5=E5=
+=80=8D=E3=80=82=E6=9C=AC=E6=96=87=E6=B2=A1=E6=9C=89=E7=BB=A7=E7=BB=AD=E8=AE=
+=A8=E8=AE=BA4=E9=82=BB=E5=9F=9F=EF=BC=8C8=E9=82=BB=E5=9F=9F=E5=8F=8A=E6=9B=
+=B4=E5=A4=A7=E5=8F=82=E6=95=B0=E4=B8=8B=E7=9A=84=E7=BB=93=E6=9E=9C=EF=BC=8C=
+=E4=BD=BF=E5=BE=97=E6=9C=80=E6=80=BB=E7=9A=84=E5=AE=9E=E9=AA=8C=E7=BB=93=E6=
+=9E=9C=E6=9C=89=E4=BA=9B=E8=AE=B8=E7=9A=84=E5=B1=80=E9=99=90=EF=BC=8C=E4=BD=
+=86=E4=B8=8D=E5=BD=B1=E5=93=8D=E7=AE=97=E6=B3=95=E6=9C=AC=E8=BA=AB=E7=9A=84=
+=E5=B1=95=E7=A4=BA=E3=80=82=E6=9C=AC=E6=96=87=E4=B8=AD=E4=BD=BF=E7=94=A8=E7=
+=9B=B8=E5=85=B3=E7=B3=BB=E6=95=B0=E6=9D=A5=E8=AE=A1=E7=AE=97=EF=BC=8C=E4=BD=
+=86=E4=BA=A6=E5=8F=AF=E4=BB=A5=E4=BD=BF=E7=94=A8=E6=AC=A7=E5=BC=8F=E8=B7=9D=
+=E7=A6=BB=E7=AD=89=E5=85=B6=E4=BB=96=E6=96=B9=E6=B3=95=E6=9D=A5=E8=AE=A1=E7=
+=AE=97=E8=BF=99=E4=B8=AA=E5=8F=82=E8=80=83=E5=80=BC=E3=80=82=E5=B8=8C=E6=9C=
+=9B=E6=9C=AC=E6=96=87=E4=B9=8B=E6=96=B9=E6=B3=95=E7=9A=84=E6=8F=90=E5=87=BA=
+=E5=8F=AF=E4=BB=A5=E4=B8=BA=E5=90=8E=E4=BA=BA=E6=8A=9B=E7=A0=96=E5=BC=95=E7=
+=8E=89=EF=BC=8C=E4=B8=BA=E8=AE=A1=E7=AE=97=E6=9C=BA=E8=A7=86=E8=A7=89=E7=9A=
+=84=E4=BA=8B=E4=B8=9A=E5=A2=9E=E7=A0=96=E6=B7=BB=E7=93=A6=EF=BC=81</p>
+       </div>
+      </div>
+      <div class=3D"n_bodymid_bf">=20
+       <!--=E6=A0=87=E9=A2=98-->=20
+       <table class=3D"n_table_jiebf" cellspacing=3D"0" cellpadding=3D"0" w=
+idth=3D"800" border=3D"0">=20
+        <tbody>=20
+         <tr>=20
+          <td class=3D"n_bf_bt" height=3D"30" width=3D"25">3. </td>=20
+          <td class=3D"n_text_block_bs" width=3D"499"><a name=3D"60092668_0=
+06"></a> =E5=8F=82=E8=80=83=E6=96=87=E7=8C=AE=E7=AD=89</td>=20
+          <td class=3D"n_table_jiebf_zzs" width=3D"116">=E6=80=BB=E5=AD=97=
+=E6=95=B0=EF=BC=9A<span class=3D"n_text_block_bs"></span>594</td>=20
+         </tr>=20
+         <tr>=20
+          <td colspan=3D"3">=20
+           <table class=3D"n_table_jiebfs" cellspacing=3D"0" cellpadding=3D=
+"0" width=3D"800" border=3D"0">=20
+            <tbody>=20
+             <tr>=20
+              <td style=3D"TEXT-INDENT: 1em" width=3D"120">=E7=9B=B8=E4=BC=
+=BC=E6=96=87=E7=8C=AE=E5=88=97=E8=A1=A8</td>=20
+              <td class=3D"n_table_jiebf_fzb" width=3D"100">=E6=96=87=E5=AD=
+=97=E5=A4=8D=E5=88=B6=E6=AF=94=EF=BC=9A</td>=20
+              <td width=3D"150">=20
+               <div class=3D"n_jcjg_am">
+                0.0%=EF=BC=880=EF=BC=89
+               </div> </td>=20
+              <td class=3D"n_table_jiebf_fzb" style=3D"TEXT-ALIGN: left">=
+=E5=89=BD=E7=AA=83=E8=A7=82=E7=82=B9=EF=BC=880=EF=BC=89 </td>=20
+             </tr>=20
+            </tbody>=20
+           </table> </td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+      </div>
+      <div id=3D"Repeater1_ctl01_Red_Content" class=3D"n_bodymid_ywnr">
+       <table class=3D"n_table_ywtop" cellspacing=3D"0" cellpadding=3D"0" w=
+idth=3D"840" border=3D"0">=20
+        <tbody>=20
+         <tr>=20
+          <td class=3D"n_ywnr" height=3D"26">=E5=8E=9F=E6=96=87=E5=86=85=E5=
+=AE=B9</td>=20
+         </tr>=20
+        </tbody>=20
+       </table>
+       <div class=3D"n_ywnr_content" style=3D"WORD-WRAP: break-word; WORD-B=
+REAK: break-all">=20
+        <!--<P>=E7=AA=97=E4=BD=93=E9=A1=B6=E7=AB=AF</P>
+        <P><SPAN class=3DFont_Color_Red>=E6=91=98=E8=A6=81:=E9=98=85=E8=AF=
+=BB=E5=8F=AF=E4=BB=A5=E8=AF=B4=E6=98=AF=E8=AF=AD=E6=96=87=E7=9A=84=E6=A0=B9=
+=E6=8D=AE,=E5=AE=83=E6=98=AF=E5=AE=8C=E6=88=90=E8=AF=AD=E6=96=87=E6=95=99=
+=E5=AD=A6=E7=9A=84=E9=87=8D=E8=A6=81=E6=96=B9=E5=BC=8F=E3=80=82</SPAN>
+        <SPAN class=3DFont_Color_Red>=E5=9C=A8=E5=B0=8F=E5=AD=A6=E6=98=AF=
+=E5=9F=B9=E5=85=BB=E5=AD=A6=E7=94=9F=E8=AF=AD=E6=96=87=E7=94=9F=E6=B6=AF=E7=
+=9A=84=E5=9F=BA=E7=A1=80,=E5=8F=AF=E4=BB=A5=E8=AF=B4=E6=98=AF=E9=9D=9E=E5=
+=B8=B8=E9=87=8D=E8=A6=81=E3=80=82</SPAN>
+        </P>-->=20
+        <p>=E5=8F=82=E8=80=83=E6=96=87=E7=8C=AE</p>
+        <p>[1] Mao Z C,Shen X S.Improved Vibe algorithm integrated with mul=
+tiscale transformation[J].Laser &amp; Optoelectronics Progress, 2018, 55(11=
+): 111501.=E8=8C=85=E6=AD=A3=E5=86=B2=EF=BC=8C=E6=B2=88=E9=9B=AA=E6=9D=BE.=
+=E8=9E=8D=E5=90=88=E5=A4=9A=E5=B0=BA=E5=BA=A6=E5=8F=98=E6=8D=A2=E7=9A=84=E6=
+=94=B9=E8=BF=9BVibe=E7=AE=97=E6=B3=95[J].=E6=BF=80=E5=85=89=E4=B8=8E=E5=85=
+=89=E7=94=B5=E5=AD=90=E5=AD=A6=E8=BF=9B=E5=B1=95, 2018, 55(11):111501.</p>
+        <p>[2] Xie S R, Ye S B, Yang B H, et al.Moving targets detection ba=
+sed on an improved YUV_Vibe fusion algorithm[J].Laser &amp; Optoelectronics=
+ Progress, 2018, 55(11):111002.</p>
+        <p>=E8=B0=A2=E7=94=B3=E6=B1=9D,=E5=8F=B6=E7=94=9F=E6=B3=A2,=E6=9D=
+=A8=E5=AE=9D=E5=8D=8E,=E7=8E=8B=E5=AD=A6=E6=A2=85,=E4=BD=95=E7=BA=A2=E9=9C=
+=9E.=E5=9F=BA=E4=BA=8E=E6=94=B9=E8=BF=9B=E7=9A=84 YUV_Vibe =E8=9E=8D=E5=90=
+=88=E7=AE=97=E6=B3=95=E7=9A=84=E8=BF=90=E5=8A=A8=E7=9B=AE=E6=A0=87=E6=A3=80=
+=E6=B5=8B[J].=E6=BF=80=E5=85=89=E4=B8=8E=E5=85=89=E7=94=B5=E5=AD=90=E5=AD=
+=A6=E8=BF=9B=E5=B1=95,2018, 55(11):111002.</p>
+        <p>[3] Martel-Brisson N ,Zaccarin A.Moving cast shadow detection fr=
+om a Gaussian mixture shadow model[C].IEEE Computer Society Conference on C=
+omputer Vision &amp; Pattern Recognition,2005,1(2): 643-648.</p>
+        <p>[4] Yuan J, Wu J, Cheng Y.Shadow detecting algorithms research f=
+or moving objects base on self-adaptive background[C].IEEE International Co=
+nference on Modeling, Identification &amp;Control, 2012: 197-200.</p>
+        <p>[5] Salvador E, Cavallaro A, Ebrahimi T.Cast shadow segmentation=
+ using invariant color features[J].Computer Vision and Image Understanding,=
+ 2004, 95(2): 238-259.</p>
+        <p>=E8=87=B4 =E8=B0=A2</p>
+        <p>=E9=A6=96=E5=85=88=EF=BC=8C=E7=89=B9=E5=88=AB=E6=84=9F=E8=B0=A2=
+=E6=88=91=E7=9A=84=E6=9C=AC=E7=A7=91=E5=AF=BC=E5=B8=88=E6=B4=AA=E7=95=99=E8=
+=8D=A3=E6=95=99=E6=8E=88=E5=9C=A8=E6=88=91=E5=86=99=E6=9C=AC=E7=AF=87=E8=AE=
+=BA=E6=96=87=E6=9C=9F=E9=97=B4=E7=BB=99=E4=BA=88=E6=88=91=E5=AE=9D=E8=B4=B5=
+=E7=9A=84=E8=AE=BA=E6=96=87=E6=8C=87=E5=AF=BC=E6=84=8F=E8=A7=81=E3=80=82=E5=
+=9C=A8=E5=A4=A7=E5=AD=A6=E5=9B=9B=E5=B9=B4=E7=9A=84=E5=AD=A6=E4=B9=A0=E4=B8=
+=AD=EF=BC=8C=E6=B4=AA=E7=95=99=E8=8D=A3=E8=80=81=E5=B8=88=E4=B8=A5=E8=B0=A8=
+=E7=9A=84=E6=95=99=E5=AD=A6=E9=A3=8E=E6=A0=BC=E4=BB=A5=E5=8F=8A=E7=A7=91=E5=
+=AD=A6=E7=9A=84=E5=B7=A5=E4=BD=9C=E6=96=B9=E6=B3=95=E7=BB=99=E4=BA=88=E4=BA=
+=86=E6=88=91=E5=BE=88=E5=A4=A7=E7=9A=84=E5=B8=AE=E5=8A=A9=E4=BB=A5=E5=8F=8A=
+=E5=BD=B1=E5=93=8D=EF=BC=8C=E6=98=AF=E6=88=91=E5=9C=A8=E8=AE=A1=E7=AE=97=E6=
+=9C=BA=E7=A7=91=E5=AD=A6=E4=B8=8E=E6=8A=80=E6=9C=AF=E4=B8=93=E4=B8=9A=E7=9A=
+=84=E9=A2=86=E8=B7=AF=E4=BA=BA=EF=BC=8C=E5=86=8D=E6=AC=A1=E7=9C=9F=E8=AF=9A=
+=E7=9A=84=E8=A1=A8=E8=BE=BE=E6=88=91=E5=AF=B9=E5=AF=BC=E5=B8=88=E7=9A=84=E6=
+=84=9F=E6=BF=80=E4=B9=8B=E6=83=85=E3=80=82</p>
+        <p>=E5=8F=A6=E5=A4=96=EF=BC=8C=E7=89=B9=E5=88=AB=E6=84=9F=E8=B0=A2=
+=E6=88=91=E7=9A=84=E8=BE=85=E5=AF=BC=E5=91=98=E5=BC=A0=E5=A8=9F=E8=80=81=E5=
+=B8=88=E7=BB=99=E4=BA=88=E6=88=91=E5=A4=A7=E5=AD=A6=E5=9B=9B=E5=B9=B4=E5=9C=
+=A8=E5=AD=A6=E4=B9=A0=E7=94=9F=E6=B4=BB=E4=B8=8A=E7=9A=84=E5=B8=AE=E5=8A=A9=
+=EF=BC=8C=E5=9B=A0=E4=B8=BA=E8=80=81=E5=B8=88=E7=9A=84=E7=94=A8=E5=BF=83=EF=
+=BC=8C=E6=89=8D=E4=BD=BF=E6=88=91=E4=BB=AC=E6=8B=A5=E6=9C=89=E8=BF=99=E6=A0=
+=B7=E4=B8=80=E4=B8=AA=E7=A7=AF=E6=9E=81=E5=90=91=E4=B8=8A=E7=9A=84=E7=8F=AD=
+=E9=9B=86=E4=BD=93=EF=BC=8C=E6=B8=A9=E6=9A=96=E6=9C=89=E7=88=B1=E7=9A=84=E5=
+=A4=A7=E5=AE=B6=E5=BA=AD=E3=80=82=E6=84=9F=E8=B0=A2=E7=BB=99=E6=88=91=E6=8E=
+=88=E8=AF=BE=E7=9A=84=E8=80=81=E5=B8=88=E4=BB=AC=EF=BC=8C=E4=BD=A0=E4=BB=AC=
+=E7=9A=84=E6=95=99=E5=AD=A6=E6=89=A9=E5=B1=95=E4=BA=86=E6=88=91=E7=9A=84=E8=
+=A7=86=E9=87=8E=EF=BC=8C=E8=A7=A3=E9=99=A4=E4=BA=86=E6=88=91=E5=AD=A6=E4=B8=
+=9A=E4=B8=8A=E7=9A=84=E8=BF=B7=E6=83=91=E3=80=82=E8=A1=B7=E5=BF=83=E7=9A=84=
+=E5=90=91=E8=80=81=E5=B8=88=E4=BB=AC=E9=81=93=E4=B8=80=E5=A3=B0=E6=84=9F=E8=
+=B0=A2=EF=BC=8C=E8=80=81=E5=B8=88=E8=BE=9B=E8=8B=A6=E4=BA=86=EF=BC=81=E4=B9=
+=9F=E7=89=B9=E5=88=AB=E6=84=9F=E8=B0=A2=E4=B8=80=E5=90=8C=E4=B8=8E=E6=88=91=
+=E5=9C=A8=E5=AD=A6=E4=B9=A0=E7=94=9F=E6=B4=BB=E4=B8=8A=E5=85=B1=E5=90=8C=E5=
+=A5=8B=E6=96=97=E7=9A=84=E5=90=8C=E5=AD=A6=EF=BC=8C=E6=98=AF=E4=BB=96=E4=BB=
+=AC=E7=9A=84=E9=99=AA=E4=BC=B4=EF=BC=8C=E9=BC=93=E5=8A=B1=EF=BC=8C=E5=B8=AE=
+=E5=8A=A9=E4=BD=BF=E5=BE=97=E6=88=91=E5=9C=A8=E5=A4=A7=E5=AD=A6=E5=9B=9B=E5=
+=B9=B4=E7=9A=84=E7=94=9F=E6=B4=BB=E8=BF=87=E5=BE=97=E5=A6=82=E6=AD=A4=E5=85=
+=85=E5=AE=9E=EF=BC=8C=E5=AF=B9=E6=9C=AA=E6=9D=A5=E5=85=85=E6=BB=A1=E7=9D=80=
+=E7=BE=8E=E5=A5=BD=E7=9A=84=E6=86=A7=E6=86=AC=E3=80=82</p>
+        <p>=E6=9C=80=E5=90=8E=E8=A6=81=E6=84=9F=E8=B0=A2=E7=9A=84=E6=98=AF=
+=E6=88=91=E7=9A=84=E7=88=B6=E6=AF=8D=EF=BC=8C=E6=84=9F=E8=B0=A2=E4=BB=96=E4=
+=BB=AC=E6=8A=9A=E5=85=BB=E6=88=91=E9=95=BF=E5=A4=A7=EF=BC=8C=E6=84=9F=E8=B0=
+=A2=E4=BB=96=E4=BB=AC=E5=9C=A8=E6=88=91=E6=88=90=E9=95=BF=E8=B7=AF=E4=B8=8A=
+=E7=9A=84=E4=B8=80=E8=B7=AF=E6=94=AF=E6=8C=81=EF=BC=8C=E5=9B=A0=E4=B8=BA=E6=
+=9C=89=E4=BB=96=E4=BB=AC=E7=BB=99=E4=B8=8E=E6=88=91=E6=9C=80=E5=9D=9A=E5=AE=
+=9E=E7=9A=84=E8=87=82=E8=86=80=EF=BC=8C=E6=89=8D=E5=8F=AF=E4=BB=A5=E6=9B=B4=
+=E5=8A=A0=E5=8B=87=E6=95=A2=E7=9A=84=E5=89=8D=E8=A1=8C=E3=80=82</p>
+       </div>
+      </div>
+     </div>=20
+     <div class=3D"n_bodyfooter">=20
+      <div id=3D"isjianjieY">=20
+      </div>
+      <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"800"=
+ class=3D"n_sm_table">=20
+       <tbody>=20
+        <tr>=20
+         <td class=3D"n_sm">=E8=AF=B4=E6=98=8E=EF=BC=9A =E6=84=9F=E8=B0=A2=
+=E6=82=A8=E4=BD=BF=E7=94=A8PaperCrazy=E5=AE=8C=E5=85=A8=E5=85=8D=E8=B4=B9=
+=E8=AE=BA=E6=96=87=E6=9F=A5=E9=87=8D=EF=BC=8C=E6=88=91=E4=BB=AC=E8=BF=98=E6=
+=9C=89=E5=85=B6=E4=BB=96=E5=85=B3=E4=BA=8E=E8=AE=BA=E6=96=87=E7=9A=84=E5=85=
+=A8=E5=A5=97=E6=9C=8D=E5=8A=A1=EF=BC=8C=E8=AF=B7=E6=9F=A5=E7=9C=8B=E9=A6=96=
+=E9=A1=B5 <a href=3D"https://www.papercrazy.cn" target=3D"_blank" class=3D"=
+n_dz">https://www.papercrazy.cn</a>=E8=B0=A2=E8=B0=A2=EF=BC=81 </td>=20
+        </tr>=20
+       </tbody>
+      </table>=20
+      <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"800"=
+ class=3D"n_sm_tables">=20
+       <tbody>
+        <tr>=20
+         <td width=3D"40"></td>=20
+         <!-- <td width=3D"20">
+                        <img src=3D"http://check.cnki.net/amlc/images/n_btn=
+_print.gif" title=3D"=E6=89=93=E5=8D=B0" class=3D"n_print">
+                    </td>
+                    <td width=3D"40">
+                        <a href=3D"javascript:print();" class=3D"n_table_pr=
+ints n_print">=E6=89=93=E5=8D=B0</a>
+                    </td>
+                    <td width=3D"20">
+                        <img src=3D"http://check.cnki.net/amlc/images/n_btn=
+_save.gif" title=3D"=E4=BF=9D=E5=AD=98" class=3D"n_print">
+                    </td>
+                    <td width=3D"40">
+                        <a href=3D"javascript:s();" class=3D"n_table_prints=
+  n_print">=E4=BF=9D=E5=AD=98</a>
+                    </td>-->=20
+        </tr>=20
+       </tbody>
+      </table>=20
+     </div>=20
+    </div>=20
+   </form> </b>  =20
+ </body>
+</html>
+------=_Part_19526_1695215833.1555897585603
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: http://check.cnki.net/amlc/images/n_btn_print.gif
+
+R0lGODlhFAAUANUAAE0AAHUZB/m/srFcRIgsFuurmsh7ZK9aQU4AAP/18//x7p5ELZpAKP/q5f/3
+9f/+/rhlTP/5+KVNNZA1Ht2Xg4crFv/Rx1sEAHsgDPvEt//Nwm4TA5xDK7lmTsyAaaJLMkwAAKJJ
+MZtCKoMoE6pTO+qpmYkuGXofC61XP7xqUuShjuWikPS4qLZiStCDbf/m4LBbQ8Z3YL5sVKhROPa7
+rbJdRYImEaxWPf/v6//9+6RMNJtBKWAIAP///////wAAACH5BAEAAD4ALAAAAAAUABQAAAa1QJ9w
+SCwaibIOZNlJGY7FVm86NfSeUCGs9+j2YtWs79aLmHsuG6EmnvUS8ETuRUuJJT2cYr/v6aAGHB9U
+hD0fHFhDBw4iGACPkI8YIg4HRIsMGQKbnJsZDJVEJA0MO6anqAwNJEQSFgcjFQSztBUjBxYSRCEs
+CR4gCMHCIB4JLCFECyoUKyUFz9AlKxQqC8kmDRsB29zbGw0m1kQTGigD5+jnKBoTRicXPPHy8xcn
+Yvf4+fpDQQA7
+------=_Part_19526_1695215833.1555897585603
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: http://check.cnki.net/amlc/images/n_btn_save.gif
+
+R0lGODlhFAAUAOYAAP/t6v/y75AtE//593ELAHUOAEwAAEgAAHcQALBXPP/39nYPAOiyoLZgRZ8/
+JE0AAFAAAEcAAEEAAPbMv//x7vTIuvDBs4YgCv/m31EAAIwmD//s5/zWzX8ZBf/e1o8rE5g2HP/c
+1YwnD6lMMey6qmIAAHsVAn0WA7pnTYAZBv/7+5c1G+izo8+IcI4qEfXKvs2EbUMAAGAAAJIuFook
+DZ4+I0kAAPnSx2EAAHkSAf/6+kUAAIIcB/HDtbdiR2oEALJaPvPFuP7a0f/i2oMdCP/r5qFCJ7Vf
+RPjRxWQAAP/o4nQNAP/p43IMAOu4qO27q////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5
+BAEAAFEALAAAAAAUABQAAAfjgFGCg4SFhlEFBBZOjI2OFgQFhEsVCkyXmJkKFUuECxJQCgOjpKMK
+UBILk0BQTk+vsK9OUC2dg00JUBQBvL28FFAoTYS4rbGxsyPDt7kYSs/QzxhQK7aCxRsA2tvaG1Az
+1lFNRyAiHwLo6R8uNALhTQ01Gj8RB/YHEYkwGu8NDkRQAgqEQqAJiwv9HHSAEiOFkCc9OBRkwEPS
+oAI+HJiAYqPDiyATPEw8YVGQDAFGEKjYgQDJhBtKJuZQRQjHhQVFOHgIMYSJjiUFSCBAYKgEhAcG
+kirNkOEBhCSHokqdSrVqoUAAOw==
+------=_Part_19526_1695215833.1555897585603
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: https://www.papercrazy.cn/img/logo.png
+
+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
+------=_Part_19526_1695215833.1555897585603--
